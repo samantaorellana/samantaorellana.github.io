@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+##theme: jekyll-theme-minimal
+remote_theme: peterdesmet/petridish@3.1
 title: Samanta Orellana, PhD
 description: Fungus weevils & biodiversity data
