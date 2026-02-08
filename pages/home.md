@@ -12,4 +12,4 @@ Guatemalan biologist and entomologist with a Ph.D. in Evolutionary Biology from 
 
 - [CV]({{ '/docs/installation/' | relative_url }})
 - [Publications]({{ '/docs/configuration/' | relative_url }})
-- [Sybmiota Portals]({{ '/docs/markdown/' | relative_url }})
+- [Symbiota Portals]({{ '/docs/markdown/' | relative_url }})
