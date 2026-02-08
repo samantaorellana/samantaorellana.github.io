@@ -14,6 +14,6 @@ Guatemalan biologist and entomologist, currently a Postdoctoral Researcher at th
 
 ## Resources
 
-- [CV]({{ '/docs/installation/' | relative_url }})
+- [CV]({{ '/cv/' | relative_url }})
 - [Publications]({{ '/docs/configuration/' | relative_url }})
 - [Symbiota Portals]({{ '/docs/markdown/' | relative_url }})
