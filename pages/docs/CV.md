@@ -3,7 +3,7 @@ layout: home
 title: Samanta Orellana, PhD
 description: Postdoctoral Researcher, University of Kansas Biodiversity Institute
 background: /assets/theme/images/SOheader.jpg
-permalink: /
+permalink: /docs/cv
 ---
 
 ## RESEARCH INTERESTS
