@@ -12,41 +12,30 @@ permalink: /docs/cv
 - Biodiversity data accessibility for research, education and outreach.
 
 ## **Education**
-- **2025-** Postdoctoral Researcher, Biodiversity Institute and Natural History Museum, The
-University of Kansas, Lawrence, KS, United States of America.
-- **2024** Ph.D. in Evolutionary Biology, School of Life Sciences, Arizona State University, Tempe,
-AZ, United States of America.
-- **2018** M.Sc. in Entomology, Universidad de Panama, Panama City, Panama.
-- **2017** Postgraduate Diploma in Entomology, Universidad de Panama, Panama City, Panama.
-- **2014** B.Sc. in Biology, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala.
+- **Postdoctoral Researcher**, Biodiversity Institute and Natural History Museum, The
+University of Kansas, Lawrence, KS, United States of America (2025-present)
+- **Ph.D. in Evolutionary Biology**, School of Life Sciences, Arizona State University, Tempe,
+AZ, United States of America (2024).
+- **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
+- **Postgraduate Diploma in Entomology**, Universidad de Panama, Panama City, Panama (2017).
+- **B.Sc. in Biology**, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala (2014).
 
 ## **Languages**
 Spanish, English
 
 ## **Research and Teaching Experience**
-- **2021-2024** Teaching Assistant. General Biology, School of Life Sciences, Arizona State
-University. Tempe, Arizona, USA.
-- **2019-2021** Research Assistant. ASU Biocollections, Biodiversity Knowledge Integration
-Center, Arizona State University. Tempe, Arizona, USA.
-- **2015** Research and Collection Management Assistant. BIGU Herbarium Research Unit,
-School of Biology, Universidad de San Carlos Guatemala, Guatemala.
-- **2014-2016** Private Environmental Consultant. Environmental and Biological Studies of
-Guatemala, National Association of Private Natural Reserves in Guatemala,
-National Association of Coffee-Farmers, among others. Guatemala City,
-Guatemala.
-- **2011-2013** Undergraduate Teaching Assistant. Zoology and Evolution, School of Biology,
-Universidad de San Carlos de Guatemala, Guatemala.
+- **Teaching Assistant.** General Biology, School of Life Sciences, Arizona State University. Tempe, Arizona, USA (2021-2024).
+- **Research Assistant.** ASU Biocollections, Biodiversity Knowledge Integration Center, Arizona State University. Tempe, Arizona, USA (2019-2021).
+- **Research and Collection Management Assistant.** BIGU Herbarium Research Unit, School of Biology, Universidad de San Carlos Guatemala, Guatemala (2015).
+- **Private Environmental Consultant.** Environmental and Biological Studies of Guatemala, National Association of Private Natural Reserves in Guatemala, National Association of Coffee-Farmers, among others. Guatemala City, Guatemala (2014-2016).
+- **Undergraduate Teaching Assistant.** Zoology and Evolution, School of Biology, Universidad de San Carlos de Guatemala, Guatemala (2011-2013).
 
 ## **Service**
-- **2023**- Steering Committee Member. Ecdysis Symbiota Portal. Hosted by the Symbiota
-Support Hub. https://ecdysis.org
-- **2023** Elected Student Councilor. The Coleopterists Society.
-- **2022-** Node Delegate. Symbiota Node for the Global Biodiversity Information Facility.
-https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f
-- **2021-** International Community Coordinator for Latin America. Symbiota Support
-Hub, iDigBio. https://symbiota.org/contact-the-support-hub
-- **2020-** Portal Manager. Biodiversity of Guatemala Symbiota Portal. Hosted by the
-Symbiota Support Hub. https://biodiversidad.gt
+- **Steering Committee Member.** [Ecdysis Symbiota Portal](https://ecdysis.org). Hosted by the Symbiota Support Hub (2023-present). 
+- **Elected Student Councilor.** The Coleopterists Society (2023-2024).
+- **Node Delegate.** [Symbiota Support Hub Node](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) for the Global Biodiversity Information Facility (2022-present).
+- **Community Coordinator for Latin America.** [Symbiota Support Hub](https://symbiota.org/contact-the-support-hub), iDigBio. 
+- **Portal Manager.** [Biodiversity of Guatemala Symbiota Portal](https://biodiversidad.gt). Hosted by the Symbiota Support Hub.(2020-present) 
 
 ## **Relevant Training**
 **2025**
@@ -67,11 +56,4 @@ Symbiota Support Hub. https://biodiversidad.gt
 - Zoological Nomenclature (Course). Biological Sciences Graduate Program, Autonomous National University of Mexico, Universidad de San Carlos de Guatemala and the International Commission on Zoological Nomenclature,
 Guatemala City, Guatemala.
 
-## Awards and Honors
-**2016**
-- Full Scholarship for Master’s Degree Studies. Central American Regional Program, German Academic Exchange Service -DAAD- (2016-2018).
-- Research Incentives Award. Research Directorate, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala.
 
-**2015** 
-- Best Biology B.Sc. Thesis 2014-2015. Universidad de San Carlos de Guatemala, Guatemala
-City, Guatemala.
