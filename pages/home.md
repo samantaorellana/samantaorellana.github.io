@@ -14,6 +14,6 @@ Guatemalan biologist and entomologist, currently a Postdoctoral Researcher at th
 
 ## Resources
 
-- [CV]({{ '/docs/cv/' | relative_url }})
+- [CV](https://samantaorellana.github.io/docs/cv)
 - [Publications]({{ '/docs/configuration/' | relative_url }})
 - [Symbiota Portals]({{ '/docs/markdown/' | relative_url }})
