@@ -6,7 +6,11 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /
 ---
 
-Guatemalan biologist and entomologist with a Ph.D. in Evolutionary Biology from Arizona State University, focused on the systematics of fungus weevils (Coleoptera: Anthribidae). As part of the Symbiota team, she actively collaborates with Latin American collections to advance their biodiversity data initiatives.
+Guatemalan biologist and entomologist, currently a Postdoctoral Researcher in the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). As part of the [Symbiota team](https://symbiota.org/about-us/), actively collaborates with Latin American collections to advance their biodiversity data initiatives.
+
+
+![SOre](https://github.com/user-attachments/assets/5ec998ac-02ae-48f2-9aea-7ff4d7f216e4)
+
 
 ## Resources
 
