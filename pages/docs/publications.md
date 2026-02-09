@@ -58,6 +58,26 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - **Orellana KS***. 2019. Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Lachua Ecoregion , Alta Verapaz, Guatemala (in Spanish). Annual Scientific Meeting of the Chemical and Biological Research Institute. Universidad de San Carlos de
 Guatemala, Guatemala City, Guatemala.
 
+## **Invited Presentations**
+- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. Universidad Rafael Landívar, School of Agricultural Sciences. Guest speaker for the undergraduate Botany course.
+- **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology
+Course, Universidad de Costa Rica, Campus Guanacaste.
+- **Taxonomy of Anthribidae** (virtual, in Spanish). August 2020. Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala.
+- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). March 2020. Universidad de San Carlos de Guatemala.
+
+## **Online Resources**
+- [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
+- [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
+- [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
+- [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present). 
+- [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
+- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website in Spanish designed to share information about the groups of insects in Guatemala (in Spanish) (2020-present).
+
+## **Languages**
+Spanish, English
+
+
 ## **Poster Presentations**
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. 2023. Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 - Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. 2021. The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
