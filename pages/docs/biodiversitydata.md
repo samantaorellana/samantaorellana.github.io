@@ -38,11 +38,10 @@ History Collections Digitization Workshop, Universidad del Valle de Guatemala.
 - **Guatemala Biodiversity Portal:** Digitizing the biological collections of the country (virtual, in Spanish). March 2021. Conference Series Women in STEM: Science, Technology, Engineering, and Mathematics, Women Who Code, Guatemala.
 - **Digitization of Biological Collections using the Guatemala Biodiversity Portal** (virtual, in Spanish). February 2021. Undergraduate Collections Management Course, Universidad de San Carlos de Guatemala.
 
-## Online Resources
+## **Online Resources**
 - [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
 - [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
 - [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
 - [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
 - [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present). 
 - [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
-- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website in Spanish designed to share information about the groups of insects in Guatemala (in Spanish) (2020-present). 
