@@ -13,7 +13,7 @@ social:
 # FRONTMATTER DEFAULTS
 defaults:
   - scope:
-      path: "/"
+      path: ""
     values:
       layout: default                   # Use default.html layout by default for all files
   - scope:
