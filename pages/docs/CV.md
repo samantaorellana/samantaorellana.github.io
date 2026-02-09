@@ -46,7 +46,7 @@ AZ, United States of America (2024).
 - The Coleopterist Society
 - Entomological Society of America
 - Society for the Preservation of Natural History Collections
-- Organization for Women in Science for the Developing World
+- [Organization for Women in Science for the Developing World](https://owsd.net/person/k-samanta-orellana-arevalo)
 - College of Professional Pharmacists and Chemists of Guatemala
 
 
