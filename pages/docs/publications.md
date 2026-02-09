@@ -33,6 +33,14 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - Pearson K, Gilbert E, **Orellana K**S, Post G, Walker L, Yost J, Franz N. 2022. Growth and Evolution of the Symbiota Portal Network. Biodiversity Information Science and Standards, 6,e112028. [https://doi.org/10.3897/biss.7.112028](https://doi.org/10.3897/biss.7.112028).
 - Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. 2022. Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
 
+## **Invited Presentations**
+- **
+- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. Universidad Rafael Landívar, School of Agricultural Sciences. Guest speaker for the undergraduate Botany course.
+- **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology
+Course, Universidad de Costa Rica, Campus Guanacaste.
+- **Taxonomy of Anthribidae** (virtual, in Spanish). August 2020. Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala.
+- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). March 2020. Universidad de San Carlos de Guatemala.
+
 ## **Conference Presentations** (* Presenting author)
 - **Orellana KS***, Franz N, Gilbert E, Freire-Fierro A. 2025. Digitization of Latin American Herbaria with Symbiota (in Spanish). Latin American Botanical Congress. La Habana, Cuba (virtual).
 - **Orellana KS***. 2024. Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
@@ -57,13 +65,6 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - **Orellana KS***. 2019. New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
 - **Orellana KS***. 2019. Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Lachua Ecoregion , Alta Verapaz, Guatemala (in Spanish). Annual Scientific Meeting of the Chemical and Biological Research Institute. Universidad de San Carlos de
 Guatemala, Guatemala City, Guatemala.
-
-## **Invited Presentations**
-- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. Universidad Rafael Landívar, School of Agricultural Sciences. Guest speaker for the undergraduate Botany course.
-- **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology
-Course, Universidad de Costa Rica, Campus Guanacaste.
-- **Taxonomy of Anthribidae** (virtual, in Spanish). August 2020. Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala.
-- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). March 2020. Universidad de San Carlos de Guatemala.
 
 ## **Online Resources**
 - [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
