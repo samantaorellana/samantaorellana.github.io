@@ -15,4 +15,5 @@ Guatemalan biologist and entomologist, currently a Postdoctoral Researcher at th
 ## Resources
 
 - [CV](https://samantaorellana.github.io/docs/cv)
+- [Publications and Presentations](https://samantaorellana.github.io/docs/publications)
 - [Biodiversity Data](https://samantaorellana.github.io/docs/biodiversitydata)
