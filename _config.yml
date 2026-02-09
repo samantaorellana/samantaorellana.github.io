@@ -2,6 +2,7 @@
 remote_theme: peterdesmet/petridish@3.1
 title: Samanta Orellana, PhD
 description: Fungus weevils & biodiversity data
+baseurl:  "/samantaorellana"
 
 # SOCIAL PROFILES
 social:
