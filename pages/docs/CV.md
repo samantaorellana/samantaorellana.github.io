@@ -50,14 +50,14 @@ Guatemala City, Guatemala (2015).
 
 (See [here](https://samantaorellana.github.io/docs/biodiversitydata) activities related to Biodiversity Data)
 
-## Invited Presentations
+## **Invited Presentations**
 - **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. Universidad Rafael Landívar, School of Agricultural Sciences. Guest speaker for the undergraduate Botany course.
 - **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology
 Course, Universidad de Costa Rica, Campus Guanacaste.
 - **Taxonomy of Anthribidae** (virtual, in Spanish). August 2020. Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala.
 - **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). March 2020. Universidad de San Carlos de Guatemala.
 
-## Online Resources
+## **Online Resources**
 - [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
 - [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
 - [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
@@ -66,7 +66,7 @@ Course, Universidad de Costa Rica, Campus Guanacaste.
 - [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
 - [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website in Spanish designed to share information about the groups of insects in Guatemala (in Spanish) (2020-present).
 
-## Professional Memberships
+## **Professional Memberships**
 - The Coleopterist Society
 - Entomological Society of America
 - Society for the Preservation of Natural History Collections
