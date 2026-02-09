@@ -5,7 +5,8 @@ description: Postdoctoral Researcher, University of Kansas Biodiversity Institut
 background: /assets/theme/images/SOheader.jpg
 permalink: /docs/publications
 ---
-# Publications and Presentations
+## Publications and Presentations
+---
 
 ## **Publications**
 
@@ -57,7 +58,7 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - **Orellana KS***. 2019. Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Lachua Ecoregion , Alta Verapaz, Guatemala (in Spanish). Annual Scientific Meeting of the Chemical and Biological Research Institute. Universidad de San Carlos de
 Guatemala, Guatemala City, Guatemala.
 
-## Poster Presentations
+## **Poster Presentations**
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. 2023. Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 - Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. 2021. The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
 - Quezada M, Perez-Silva E, **Orellana KS**. 2014. Coleoptera associated to Marasmiaceae and Polyporaceae fungi in the Lachua rainforest in Guatemala (In Spanish). International Mycological Association, VIII Latin American Congress of Mycology, Medellín, Colombia.
