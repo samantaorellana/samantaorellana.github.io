@@ -114,4 +114,5 @@ Guatemala, Guatemala City, Guatemala.
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. (2023). Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 
 - Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. (2021). The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
+
 - Quezada M, Perez-Silva E, **Orellana KS**. (2014). Coleoptera associated to Marasmiaceae and Polyporaceae fungi in the Lachua rainforest in Guatemala (In Spanish). International Mycological Association, VIII Latin American Congress of Mycology, Medellín, Colombia.
