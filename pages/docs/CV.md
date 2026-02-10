@@ -45,6 +45,8 @@ permalink: /docs/cv
 - [Organization for Women in Science for the Developing World](https://owsd.net/person/k-samanta-orellana-arevalo)
 - College of Professional Pharmacists and Chemists of Guatemala
 
+## **Languages**
+Spanish, English
 
 ## **Publications and Presentations**
 ---
