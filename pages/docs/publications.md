@@ -6,11 +6,6 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /docs/publications
 ---
 ## **Publications and Presentations**
-
-
-![LivingData2025](https://github.com/user-attachments/assets/e189ecb0-a4d7-4381-b837-95c6a2d11098)
-
-
 ---
 
 ## **Publications**
@@ -30,8 +25,8 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - Yoshimoto J, Cano EB, **Orellana S**. (Editors). 2015. Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
   
 ## **Published Abstracts** (* Presenting author)
--**Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
--**Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
+- **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
+- **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 - **Orellana KS***, Gilbert E, Pearson K, Post G, Fisher M, Franz N (2025) Use of Symbiota Portals to Integrate Biodiversity Information in Latin America. Biodiversity Information Science and Standards 9: e177303. https://doi.org/10.3897/biss.9.177303
 - **Orellana KS***, López ZM, Yoshimoto J, Quezada ML, Prado LM, Ambrocio AL, Barrios-Izás MA, Jiménez RA, García P, Post G, Franz N, Gilbert E. 2024. Advances in the Digitization and Mobilization of Natural History Collections in Guatemala. Biodiversity Information Science and Standards 8: e134288. [https://doi.org/10.3897/biss.8.134288](https://doi.org/10.3897/biss.8.134288).
 - Castillo-Cabrera FJ, Roldán RA, Barrios MV, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez ED, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS***. 2024. Interactive Checklists to Increase Access to Urban Biodiversity Information in Guatemala. Biodiversity Information Science and Standards 8:e137732. [https://doi.org/10.3897/biss.8.137732](https://doi.org/10.3897/biss.8.137732).
@@ -39,6 +34,8 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - Pearson K, Gilbert E, Franz N, **Orellana S**, Post G, Rocha Prado L, Walker LJ, Yost JM. 2022. Leveraging the Symbiota Support Hub for Biodiversity Data Mobilization. Biodiversity Information Science and Standards, 6, e93893. [https://doi.org/10.3897/biss.6.93893](https://doi.org/10.3897/biss.6.93893)
 - Pearson K, Gilbert E, **Orellana KS**, Post G, Walker L, Yost J, Franz N. 2022. Growth and Evolution of the Symbiota Portal Network. Biodiversity Information Science and Standards, 6,e112028. [https://doi.org/10.3897/biss.7.112028](https://doi.org/10.3897/biss.7.112028).
 - Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. 2022. Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
+
+![LivingData2025](https://github.com/user-attachments/assets/e189ecb0-a4d7-4381-b837-95c6a2d11098)
 
 ## **Invited Presentations**
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). July 2025. Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. 
