@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Samanta Orellana, PhD
-description: Postdoctoral Researcher, University of Kansas Biodiversity Institute
+description: Fungus weevils & biodiversity data
 background: /assets/theme/images/SOheader.jpg
 permalink: /docs/publications
 ---
