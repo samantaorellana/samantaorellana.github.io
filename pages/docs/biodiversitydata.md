@@ -6,10 +6,10 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /docs/biodiversitydata
 ---
 
-# Biodiversity Data
-
 ![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
+## **Biodiversity Data**
+---
 
 ## **Service**
 - **Steering Committee Member.** [Ecdysis Symbiota Portal](https://ecdysis.org). Hosted by the Symbiota Support Hub (2023-present). 
