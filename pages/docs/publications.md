@@ -5,13 +5,12 @@ description: Postdoctoral Researcher, University of Kansas Biodiversity Institut
 background: /assets/theme/images/SOheader.jpg
 permalink: /docs/publications
 ---
-## Publications and Presentations
+## **Publications and Presentations**
 ---
 
 ## **Publications**
 
-- Castillo-Cabrera FJ, Roldán RA, Barrios M, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez D, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS**. 2025. Contribution to the knowledge of urban biodiversity in Central
-America: A checklist to the species of Guatemala City. Neotropical Biology and Conservation 20(1): 59-66. [https://doi.org/10.3897/neotropical.20.e135435](https://doi.org/10.3897/neotropical.20.e135435)
+- Castillo-Cabrera FJ, Roldán RA, Barrios M, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez D, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS**. 2025. Contribution to the knowledge of urban biodiversity in Central America: A checklist to the species of Guatemala City. Neotropical Biology and Conservation 20(1): 59-66. [https://doi.org/10.3897/neotropical.20.e135435](https://doi.org/10.3897/neotropical.20.e135435)
 - McKenna DD, Oberprieler RG, Marvaldi AE, Brown SDJ, Charles M, Medeiros BAS, Farrell BD, Leschen RAB, Mermudes JRM, **Orellana KS**, Shin S, Stals R, Li X. 2025. Unraveling the evolution of mycetophagy and phytophagy in fungus weevils (Curculionoidea: Anthribidae): Phylogenomic insights into Anthribinae paraphyly and tribal non-monophyly. Systematic Entomology, 1–13. [https://doi.org/10.1111/syen.12674](https://doi.org/10.1111/syen.12674)
 - **Orellana KS**, Girón J. 2024. State of the State of knowledge of the Anthribidae (Insecta: Coleoptera: Curculionoidea) in Colombia with a key to genera. Biota Colombiana, 25, 1-18. [https://doi.org/10.21068/2539200X.1149](https://doi.org/10.21068/2539200X.1149)
 - **Orellana KS**, Franz NM. 2023. Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
@@ -26,6 +25,9 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - Yoshimoto J, Cano EB, **Orellana S**. (Editors). 2015. Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
   
 ## **Published Abstracts** (* Presenting author)
+-**Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
+-**Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
+- **Orellana KS***, Gilbert E, Pearson K, Post G, Fisher M, Franz N (2025) Use of Symbiota Portals to Integrate Biodiversity Information in Latin America. Biodiversity Information Science and Standards 9: e177303. https://doi.org/10.3897/biss.9.177303
 - **Orellana KS***, López ZM, Yoshimoto J, Quezada ML, Prado LM, Ambrocio AL, Barrios-Izás MA, Jiménez RA, García P, Post G, Franz N, Gilbert E. 2024. Advances in the Digitization and Mobilization of Natural History Collections in Guatemala. Biodiversity Information Science and Standards 8: e134288. [https://doi.org/10.3897/biss.8.134288](https://doi.org/10.3897/biss.8.134288).
 - Castillo-Cabrera FJ, Roldán RA, Barrios MV, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez ED, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS***. 2024. Interactive Checklists to Increase Access to Urban Biodiversity Information in Guatemala. Biodiversity Information Science and Standards 8:e137732. [https://doi.org/10.3897/biss.8.137732](https://doi.org/10.3897/biss.8.137732).
 - **Orellana KS***, Gilbert E, Walker LJ, Pearson K, Prado LR, Post G, Yost J, Franz N. 2022. Taxonomic Curation in a Multi-taxa Symbiota Portal. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
@@ -34,10 +36,9 @@ Eco-region Lachuá, Alta Verapaz, Guatemala). Revista Científica 25(1): 37-48.
 - Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. 2022. Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
 
 ## **Invited Presentations**
-- **
-- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. Universidad Rafael Landívar, School of Agricultural Sciences. Guest speaker for the undergraduate Botany course.
-- **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology
-Course, Universidad de Costa Rica, Campus Guanacaste.
+- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). July 2025. Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. 
+- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). July 2021. School of Agricultural Sciences, Universidad Rafael Landívar. Guest speaker for the undergraduate Botany course.
+- **Introduction to Coleoptera** (virtual, in Spanish). November 2020. Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste.
 - **Taxonomy of Anthribidae** (virtual, in Spanish). August 2020. Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala.
 - **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). March 2020. Universidad de San Carlos de Guatemala.
 
@@ -65,19 +66,6 @@ Course, Universidad de Costa Rica, Campus Guanacaste.
 - **Orellana KS***. 2019. New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
 - **Orellana KS***. 2019. Effect of landscape conformation on the coleopterans (Insecta: Coleoptera) associated with fungi of the Lachua Ecoregion , Alta Verapaz, Guatemala (in Spanish). Annual Scientific Meeting of the Chemical and Biological Research Institute. Universidad de San Carlos de
 Guatemala, Guatemala City, Guatemala.
-
-## **Online Resources**
-- [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
-- [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
-- [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
-- [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
-- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present). 
-- [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
-- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website in Spanish designed to share information about the groups of insects in Guatemala (in Spanish) (2020-present).
-
-## **Languages**
-Spanish, English
-
 
 ## **Poster Presentations**
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. 2023. Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
