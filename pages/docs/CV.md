@@ -31,13 +31,6 @@ permalink: /docs/cv
 - **Teaching Assistant.** General Biology, School of Life Sciences, Arizona State University. Tempe, Arizona, USA (2021-2024).
 - **Research Assistant.** ASU Biocollections, Biodiversity Knowledge Integration Center, Arizona State University. Tempe, Arizona, USA (2019-2021).
 
-## **Service**
-- **Steering Committee Member.** [Ecdysis Symbiota Portal](https://ecdysis.org). Hosted by the Symbiota Support Hub (2023-present). 
-- **Elected Student Councilor.** The Coleopterists Society (2023-2024).
-- **Node Delegate.** [Symbiota Support Hub Node](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) for the Global Biodiversity Information Facility (2022-present).
-- **Community Coordinator for Latin America.** [Symbiota Support Hub](https://symbiota.org/contact-the-support-hub), iDigBio. 
-- **Portal Manager.** [Biodiversity of Guatemala Symbiota Portal](https://biodiversidad.gt). Hosted by the Symbiota Support Hub.(2020-present) 
-
 ## **Professional Memberships**
 - The Coleopterist Society
 - Entomological Society of America
