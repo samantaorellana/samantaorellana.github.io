@@ -7,5 +7,7 @@
 - text: Publications
   href: /docs/publications
 - text: Scientific Outreach
+  href: /docs/outreach
+  - text: Biodiversity Data
   href: /docs/biodiversitydata
   new_window: true
