@@ -6,6 +6,8 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /docs/biodiversitydata
 ---
 
+![Image_AnthribidaeDefense](https://github.com/user-attachments/assets/046af03b-070d-4c67-8af1-378343adbfa0)
+
 ## **Biodiversity Data Resources**
 ---
 
@@ -15,8 +17,6 @@ permalink: /docs/biodiversitydata
 - [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
 - [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
 - [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
-
-![Image_AnthribidaeDefense](https://github.com/user-attachments/assets/046af03b-070d-4c67-8af1-378343adbfa0)
 
 
 ## **International Collection Communities**
