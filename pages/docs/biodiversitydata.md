@@ -6,8 +6,6 @@ background: /assets/theme/images/SOheader.jpg
 permalink: /docs/biodiversitydata
 ---
 
-![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
-
 ## **Biodiversity Data Resources**
 ---
 
