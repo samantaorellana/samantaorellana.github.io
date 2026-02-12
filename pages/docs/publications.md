@@ -25,7 +25,7 @@ permalink: /docs/publications
   
 - Yoshimoto J, Cano EB, **Orellana S**. (Editors). (2023). Insectos de Guatemala: Guía de Identificación (Insects of Guatemala: Identification Guide). Third Edition. Guatemala: Universidad Del Valle de Guatemala and Universidad de San Carlos de Guatemala. (Book).
   
-- **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.mapress.com/zt/issue/view/zootaxa.4904.1)
+- **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera)
   
 - **Orellana S**, Barrios H. (2018). Abundancia de Coleópteros (Insecta: Coleoptera) en dos órdenes de macrohongos (Basidiomycota) de un bosque tropical de Panamá. Scientia Panamá 28(1): 45-59.
   
