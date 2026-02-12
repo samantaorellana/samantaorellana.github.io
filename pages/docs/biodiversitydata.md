@@ -18,7 +18,6 @@ permalink: /docs/biodiversitydata
 - [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
 - [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
 
-
 ## **International Collection Communities**
 
 - [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present). 
