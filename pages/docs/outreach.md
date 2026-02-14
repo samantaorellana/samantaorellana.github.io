@@ -41,6 +41,8 @@ permalink: /docs/outreach
 - **Steering Committee Member.** [Ecdysis Symbiota Portal](https://ecdysis.org). Hosted by the Symbiota Support Hub (2023-present). 
 - **Community Coordinator for Latin America.** [Symbiota Support Hub](https://symbiota.org/contact-the-support-hub), iDigBio.
 -  **Node Delegate.** [Symbiota Support Hub Node](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) for the Global Biodiversity Information Facility (2022-present).
+- **Mentor.** [Global Biodiversity Information Facility](https://www.gbif.org/mentors) (2020-present).
+-  
 
 
 ## **Online Resources**
