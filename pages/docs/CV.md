@@ -47,5 +47,5 @@ Spanish, English
 
 ## **Scientific Outreach**
 ---
-(See [here](https://samantaorellana.github.io/docs/biodiversitydata))
+(See [here](https://samantaorellana.github.io/docs/outreach))
 
