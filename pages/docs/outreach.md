@@ -42,13 +42,18 @@ permalink: /docs/outreach
 - **Community Coordinator for Latin America.** [Symbiota Support Hub](https://symbiota.org/contact-the-support-hub), iDigBio.
 -  **Node Delegate.** [Symbiota Support Hub Node](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) for the Global Biodiversity Information Facility (2022-present).
 - **Mentor.** [Global Biodiversity Information Facility](https://www.gbif.org/mentors) (2020-present).
--  
-
 
 ## **Online Resources**
-- [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
+### Entomology, Taxonomy and Systematics
 - [**Anthribidae of the World Online.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
 - [**Anthribidae of the World.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
-- [**Anthribidae on ecdysis.**](https://ecdysis.org/collections/datasets/public.php?datasetid=33) Digitized and imaged specimens (ASU Biocollections). Updated regularly.
-- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present). 
+- [**Anthribidae of ASU Biocollections.**](https://weevil.symbiota.org/portal/collections/list.php?db=1&taxa=Anthribidae&usethes=1&taxontype=3&comingFrom=newsearch) Digitized and imaged specimens. Updated regularly.
+- [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
+- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/list.php), Digitized and imaged specimens. Updated regularly.
+- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website to share information about entomology and insect fauna in Guatemala.
+
+### Digitization and Mobilization of Scientific Collections
+- [**The Weevil Portal.**](https://serv.biokic.asu.edu/weevil/portal/) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
 - [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for advanced users of the Guatemala Biodiversity Portal (2020-present).
+- [**Collections Mobilized to GBIF.**](https://www.gbif.org/occurrence/search?publishing_country=GT&publishing_country=CR&publishing_country=DO&advanced=1&occurrence_status=present&hosting_organization_key=96710dc8-fecb-440d-ae3e-c34ae8a9616f) 
