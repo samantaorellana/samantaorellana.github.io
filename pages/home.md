@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Samanta Orellana, PhD
+title: Samanta Orellana
 description:  Fungus weevils, collections & biodiversity data
 background: /assets/theme/images/SOheader.jpg
 permalink: /
