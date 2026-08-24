@@ -11,7 +11,10 @@ permalink: /
 
 |[Español](https://samantaorellana.github.io/docs/inicio) | 
 
-<img valign="left" width="150" height="200" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhoto.png?raw=true"  /> **Hi there!** I'm Samanta, a Guatemalan biologist and entomologist working in natural history collections. I'm currently appointed a Postdoctoral Researcher at the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). My research focuses on the diversity and systematics of Neotropical fungus weevils (Curculionoidea: Anthribidae) and specimen data mobilization. As part of the [Symbiota team](https://symbiota.org/about-us/) and the [GBIF Network](https://www.gbif.org/mentors), I actively collaborate with Latin American collections to advance their biodiversity data initiatives. 
+
+<img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite.png?raw=true">
+
+**Hi there!** I'm Samanta, a Guatemalan biologist and entomologist working in natural history collections. I'm currently appointed a Postdoctoral Researcher at the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). My research focuses on the diversity and systematics of Neotropical fungus weevils (Curculionoidea: Anthribidae) and specimen data mobilization. As part of the [Symbiota team](https://symbiota.org/about-us/) and the [GBIF Network](https://www.gbif.org/mentors), I actively collaborate with Latin American collections to advance their biodiversity data initiatives. 
 
 ## Hi there!
 I'm Samanta, a Guatemalan biologist and entomologist working in natural history collections. I'm currently appointed a Postdoctoral Researcher at the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). My research focuses on the diversity and systematics of Neotropical fungus weevils (Curculionoidea: Anthribidae) and specimen data mobilization. As part of the [Symbiota team](https://symbiota.org/about-us/) and the [GBIF Network](https://www.gbif.org/mentors), I actively collaborate with Latin American collections to advance their biodiversity data initiatives. 
