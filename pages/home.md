@@ -2,10 +2,12 @@
 layout: home
 title: Samanta Orellana, PhD
 description:  Fungus weevils, collections & biodiversity data
-background: /assets/theme/images/SOheadergreen.jpg
+background: /assets/theme/images/SOheaderblue.jpg
 permalink: /
 ---
 
+
+---
 Hi there! I'm a Guatemalan biologist and entomologist, currently appointed a Postdoctoral Researcher at the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). My research focuses on the diversity and systematics of Neotropical fungus weevils (Curculionoidea: Anthribidae) and specimen data mobilization. As part of the [Symbiota team](https://symbiota.org/about-us/) and the [GBIF Network](https://www.gbif.org/mentors), I actively collaborate with Latin American collections to advance their biodiversity data initiatives.
 
 ---
