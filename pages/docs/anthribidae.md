@@ -28,6 +28,13 @@ permalink: /docs/anthribidae
 
 ### **Online Resources**
 
+[<img width="1600" height="1067" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/c20b80a2-545b-48bf-99cb-4b9e15d6651a" />](https://anthribidae.github.io)
+
+[<img width="1600" height="1067" alt="AnthribidaeCatalogmargin" src="https://github.com/user-attachments/assets/c8101df9-9c0d-4506-b218-22c0a46d454f" />](https://anthribidae.github.io/species)
+
+[<img width="1600" height="1067" alt="AnthribidaeWeevilPortalmargin" src="https://github.com/user-attachments/assets/e451f548-be33-4b9a-a0ad-4c9526b4ffec" />](https://weevil.symbiota.org/portal/index.php)
+
+
 [<img src="https://github.com/user-attachments/assets/826d3d22-c94e-4006-8972-6019dc72786a" alt="Anthribidae Site" width="320" height="213.4">](https://anthribidae.github.io) [<img src="https://github.com/user-attachments/assets/4547697b-052b-4a73-9340-c00fa810e6e9" alt="Anthribidae Catalog" width="320" height="213.4">](https://anthribidae.github.io/species) [<img src="https://github.com/user-attachments/assets/b9edbbb2-582d-4ef3-b61b-975826f2eaf4" alt="Weevil Portal" width="320" height="213.4">](https://weevil.symbiota.org/portal/index.php)
 
 ---
