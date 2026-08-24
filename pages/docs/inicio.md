@@ -13,6 +13,11 @@ permalink: /docs/inicio
 
 <img valign="left" width="150" height="200" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhoto.png?raw=true"  /> **¡Bienvenido!** Soy Samanta, bióloga y entomóloga guatemalteca trabajando en colecciones de historia natural. Actualmente soy una Investigadora Postdoctoral en el [Instituto de Biodiversidad de la Universidad de Kansas](https://biodiversity.ku.edu/people/samanta-orellana). Mis investigaciones se enfocan la diversidad y sistemática de Anthribidae (Coleoptera: Curculionoidea) neotropicales y movilización de datos de especímenes. Como parte del equipo [Symbiota](https://symbiota.org/about-us/) y la [red de GBIF](https://www.gbif.org/mentors), colaboro activamente con colecciones latinoamericanas para avanzar sus iniciativas de datos de biodiversidad. 
 
+
+<img style="float: right;" width="150" height="200" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhoto.png?raw=true">
+
+**¡Bienvenido!** Soy Samanta, bióloga y entomóloga guatemalteca trabajando en colecciones de historia natural. Actualmente soy una Investigadora Postdoctoral en el [Instituto de Biodiversidad de la Universidad de Kansas](https://biodiversity.ku.edu/people/samanta-orellana). Mis investigaciones se enfocan la diversidad y sistemática de Anthribidae (Coleoptera: Curculionoidea) neotropicales y movilización de datos de especímenes. Como parte del equipo [Symbiota](https://symbiota.org/about-us/) y la [red de GBIF](https://www.gbif.org/mentors), colaboro activamente con colecciones latinoamericanas para avanzar sus iniciativas de datos de biodiversidad. 
+
 ---
 
 [![SOhomepage2](https://github.com/user-attachments/assets/a1e4e06a-b9bc-465f-8af0-ea13a353ba3e)](https://anthribidae.github.io/)
