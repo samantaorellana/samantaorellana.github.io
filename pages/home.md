@@ -9,7 +9,7 @@ permalink: /
 
 ---
 
-|[Español](https://samantaorellana.github.io/pages/es/inicio.md) | 
+|[Español](https://samantaorellana.github.io/docs/inicio) | 
 
 
 ## Hi there!
