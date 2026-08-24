@@ -20,7 +20,7 @@ I'm Samanta, a Guatemalan biologist and entomologist working in natural history 
 
 ---
 
-| [Español](samantaorellana.github.io/es) |
+| [Español](samantaorellana.github.io/es/inicio) |
 
 
 
