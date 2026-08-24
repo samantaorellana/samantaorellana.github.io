@@ -6,7 +6,10 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/anthribidae
 ---
 
-# Diversity and Systematics of Neotropical Anthribidae
+# **Diversity and Systematics of Neotropical Anthribidae**
+
+|<img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />|
+
 
 ### **Publications**
 
@@ -19,7 +22,7 @@ permalink: /docs/anthribidae
 - **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera)
   
   
-## **Conference Presentations** (* Presenting author)
+### **Conference Presentations** (* Presenting author)
 
 - **Orellana KS***. (2024). Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
 
