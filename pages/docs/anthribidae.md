@@ -10,6 +10,7 @@ permalink: /docs/anthribidae
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
+---
 
 ### **Publications**
 
@@ -21,10 +22,13 @@ permalink: /docs/anthribidae
    
 - **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera)
   
+---
 
 ### **Online Resources**
 
 [<img src="https://github.com/user-attachments/assets/826d3d22-c94e-4006-8972-6019dc72786a" alt="Anthribidae Site" width="320" height="213.4">](https://anthribidae.github.io) [<img src="https://github.com/user-attachments/assets/4547697b-052b-4a73-9340-c00fa810e6e9" alt="Anthribidae Catalog" width="320" height="213.4">](https://anthribidae.github.io/species) [<img src="https://github.com/user-attachments/assets/b9edbbb2-582d-4ef3-b61b-975826f2eaf4" alt="Weevil Portal" width="320" height="213.4">](https://weevil.symbiota.org/portal/index.php)
+
+---
 
 ### **Conference Presentations** (* Presenting author)
 
@@ -44,6 +48,7 @@ permalink: /docs/anthribidae
 
 - **Orellana KS***. (2019). New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
 
+---
 
 ## **Invited Presentations**
 
@@ -58,5 +63,6 @@ permalink: /docs/anthribidae
 - **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. March 2020.
 
 ---
-(See [here](https://samantaorellana.github.io/docs/outreach))
+
+(Find more [here](https://samantaorellana.github.io/docs/CV))
 
