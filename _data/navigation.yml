@@ -2,10 +2,10 @@
 
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
+- text: Anthribidae
+  href: /docs/anthribidae
+- text: Biodiversity Data
+  href: /docs/data
 - text: CV
   href: /docs/cv
-- text: Publications
-  href: /docs/publications
-- text: Scientific Outreach
-  href: /docs/outreach
   new_window: true
