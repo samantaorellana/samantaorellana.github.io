@@ -11,6 +11,7 @@ permalink: /
 
 |[Español](https://samantaorellana.github.io/docs/inicio) | 
 
+|<img width="140" height="126.5" alt="SOre" src="https://github.com/user-attachments/assets/111af86a-7878-408c-b948-836baf87c68d" />|
 
 ## Hi there!
 I'm Samanta, a Guatemalan biologist and entomologist working in natural history collections. I'm currently appointed a Postdoctoral Researcher at the [University of Kansas Biodiversity Institute](https://biodiversity.ku.edu/people/samanta-orellana). My research focuses on the diversity and systematics of Neotropical fungus weevils (Curculionoidea: Anthribidae) and specimen data mobilization. As part of the [Symbiota team](https://symbiota.org/about-us/) and the [GBIF Network](https://www.gbif.org/mentors), I actively collaborate with Latin American collections to advance their biodiversity data initiatives. 
