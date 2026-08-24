@@ -6,7 +6,9 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/anthribidae
 ---
 
-# **Diversity and Systematics of Neotropical Anthribidae**
+---
+
+## **Diversity and Systematics of Neotropical Anthribidae**
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
