@@ -1,0 +1,55 @@
+---
+layout: home
+title: Samanta Orellana, PhD
+description: Fungus weevils, collections & biodiversity data
+background: /assets/theme/images/SOheaderblue.jpg
+permalink: /docs/anthribidae
+---
+
+# Diversity and Systematics of Neotropical Anthribidae
+
+### **Publications**
+
+- McKenna DD, Oberprieler RG, Marvaldi AE, Brown SDJ, Charles M, Medeiros BAS, Farrell BD, Leschen RAB, Mermudes JRM, **Orellana KS**, Shin S, Stals R, Li X. (2025). Unraveling the evolution of mycetophagy and phytophagy in fungus weevils (Curculionoidea: Anthribidae): Phylogenomic insights into Anthribinae paraphyly and tribal non-monophyly. Systematic Entomology, 1–13. [https://doi.org/10.1111/syen.12674](https://doi.org/10.1111/syen.12674)
+  
+- **Orellana KS**, Girón J. (2024). State of the State of knowledge of the Anthribidae (Insecta: Coleoptera: Curculionoidea) in Colombia with a key to genera. Biota Colombiana, 25, 1-18. [https://doi.org/10.21068/2539200X.1149](https://doi.org/10.21068/2539200X.1149)
+  
+- **Orellana KS**, Franz NM. (2023). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
+   
+- **Orellana S**, Barrios H. (2021). Catalogue of the Anthribidae (Coleoptera: Curculionoidea) of Panama, including new country records and a key to genera. Zootaxa 4904 (1), 1-71. [https://www.mapress.com/zt/issue/view/zootaxa.4904.1](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera)
+  
+  
+## **Conference Presentations** (* Presenting author)
+
+- **Orellana KS***. (2024). Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
+
+- **Orellana KS***. (2024). Generating an Illustrated Catalog of Anthribidae (Coleoptera: Curculionoidea) with TaxonWorks and TaxonPages. TaxonWorks Together 2024 (virtual).
+
+- **Orellana KS***, Mermudes JRM, Franz N. (2023). Advances in the Study of Central American Anthribidae. Online Weevil Workers Meeting, Texas Tech University, United States Department of Agriculture, Canadian Museum of Nature (virtual).
+
+- **Orellana KS***. (2022). The O’Brien Collection, a valuable resource for the study of Anthribidae. Online Weevil Workers Meeting, Texas Tech University, United States Department of Agriculture, Canadian Museum of Nature (virtual).
+
+- **Orellana KS***. (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting (virtual).
+
+- **Orellana KS***. (2020). Collection-based research: Discovering the Neotropical Anthribidae. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona (virtual).
+
+- **Orellana KS***. (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona.
+
+- **Orellana KS***. (2019). New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
+
+
+## **Invited Presentations**
+
+- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
+
+- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). School of Agricultural Sciences, Universidad Rafael Landívar. Guest speaker for the undergraduate Botany course. July 2021.
+
+- **Introduction to Coleoptera** (virtual, in Spanish). Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste. November 2020.
+
+- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. August 2020.
+
+- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. March 2020.
+
+---
+(See [here](https://samantaorellana.github.io/docs/outreach))
+
