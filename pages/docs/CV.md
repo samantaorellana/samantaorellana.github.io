@@ -2,9 +2,10 @@
 layout: home
 title: Samanta Orellana, PhD
 description: Fungus weevils, collections & biodiversity data
-background: /assets/theme/images/SOheader.jpg
+background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/cv
 ---
+
 
 ## **Research Interests**
 - Taxonomy and systematics of fungus weevils (Coleoptera: Anthribidae).
