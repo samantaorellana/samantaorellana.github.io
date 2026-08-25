@@ -79,5 +79,5 @@ permalink: /docs/anthribidae
 
 ---
 
-(Find more [here](https://samantaorellana.github.io/docs/CV))
+(Find more [here](https://samantaorellana.github.io/docs/cv))
 
