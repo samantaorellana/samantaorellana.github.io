@@ -10,7 +10,22 @@ permalink: /docs/anthribidae
 
 ## **Diversity and Systematics of Neotropical Anthribidae**
 
+I am specially interested in studying the evolutionary history of Neotropical groups of Anthribidae (Coleoptera: Curculionidae) based on morphological characters. Recently, I also collaborated on a [publication](https://doi.org/10.1111/syen.12674) that updates the higher classification of the family, based on molecular data. While exploring natural history collections in the US and Latin America for my research, I have published catalogs and taxonomic keys for [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). I am currently focused on inventorying the fauna in Costa Rica and other Central American countries. 
+
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
+
+### **Visited Collections and Loans**
+
+- **AMNH**     American Museum of Natural History, USA (Lee Herman, loan)
+- **ASUCOB**   OBrien Collection, Arizona State University, USA (Sangmi Lee)
+- **ASUHIC**   Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee)
+- **CIPROC**   Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama)
+- **KUNHM**    University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)
+- **MNCR**     Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero)
+- **NMNH**     Smithsonian National Museum of Natural History, USA (Lourdes Chamorro)
+- **NZAC**     New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan)
+- **SSAC**     Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo)
+- **UCRG**     Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora)
 
 ---
 
