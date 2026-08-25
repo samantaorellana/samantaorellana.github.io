@@ -213,15 +213,21 @@ Guatemala, Guatemala City, Guatemala.
 
 ## **Online Resources**
 
-2026-present	Central American Collections Portal. Symbiota portal for the management of natural history collections in Central America. https://ks.symbiota.org/portal/index.php
-2025-present	Kansas Biodiversity Portal. Symbiota portal focused on the biodiversity of Kansas. https://ks.symbiota.org/portal/index.php
-2024-present	The Weevil Portal. Symbiota portal focused on the superfamily Curculionoidea. https://weevil.symbiota.org/portal/index.php
-2023-present	Anthribidae of the World Online. Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages. https://anthribidae.github.io/species
-2022-present	Anthribidae of the World. Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection. https://anthribidae.github.io 
-2020-present	Anthribidae on ecdysis. Digitized and imaged specimens (ASU Biocollections). Updated regularly. https://ecdysis.org/collections/datasets/public.php?datasetid=33
-2020-present	Guatemala Portal Docs. Documentation site for users of the Guatemala Biodiversity Portal. https://guatemalaportal.github.io/
-2020-present	Guatemala Biodiversity Portal. Symbiota portal for the management of natural history collections in Guatemala.  https://biodiversidad.gt/
-2020-present	Insectos de Guatemala. Website in Spanish designed to share information about the groups of insects in Guatemala (in Spanish). insectosdeguatemala.org
+- [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
+  
+- [**Anthribidae Catalog.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
+  
+- [**The Weevil Portal.**](https://weevil.symbiota.org) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
+  
+- [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
+  
+- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/list.php), Digitized and imaged specimens. Updated regularly.
+  
+- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website to share information about entomology and insect fauna in Guatemala.
+
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present).
+  
+- [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
 
 ---
 
