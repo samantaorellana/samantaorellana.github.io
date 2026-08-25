@@ -100,7 +100,7 @@ Spanish, English
   
 ---
 
-### **Books and chapters**
+### **Books and Chapters**
 
 - **Orellana KS**, Franz NM. (2023). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
   
@@ -137,8 +137,6 @@ Spanish, English
 ---
 
 ## **Conference Presentations** (* Presenting author)
-
-
 
 - **Orellana KS***, Franz N, Gilbert E, Freire-Fierro A. (2025). Digitization of Latin American Herbaria with Symbiota (in Spanish). Latin American Botanical Congress. La Habana, Cuba (virtual).
 
@@ -195,7 +193,7 @@ Guatemala, Guatemala City, Guatemala.
   
 ---
 
-## Scientific Outreach
+## **Scientific Outreach**
 
 ---
 
