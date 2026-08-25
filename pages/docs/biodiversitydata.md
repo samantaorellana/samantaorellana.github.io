@@ -14,7 +14,7 @@ permalink: /docs/biodiversitydata
 
 ---
 
-### Service
+### **Service**
 
 -  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
   
@@ -31,7 +31,7 @@ permalink: /docs/biodiversitydata
 
 ---
 
-### Mentorship
+### **Mentorship**
 
 - **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator.
 
