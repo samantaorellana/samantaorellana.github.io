@@ -24,7 +24,7 @@ I am specially interested in studying the evolutionary history of Neotropical gr
 |**ASUCOB** | OBrien Collection, Arizona State University, USA (Sangmi Lee) |
 |**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee) |
 |**CIPROC** | Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama) |
-|**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)) |
+|**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin) |
 |**MNCR** | Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero) |
 |**NMNH** | Smithsonian National Museum of Natural History, USA (Lourdes Chamorro) |
 |**NZAC** | New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan) |
@@ -32,6 +32,7 @@ I am specially interested in studying the evolutionary history of Neotropical gr
 |**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
 |**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
 
+My [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae)** profile summarizes the specimens identified in different collections, once they are available on GBIF.
 
 ---
 
