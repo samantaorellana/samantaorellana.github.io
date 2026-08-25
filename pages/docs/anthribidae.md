@@ -10,7 +10,7 @@ permalink: /docs/anthribidae
 
 ## **Diversity and Systematics of Neotropical Anthribidae**
 
-I am specially interested in studying the diversity and evolutionary history of Neotropical groups of Anthribidae (Coleoptera: Curculionoidea). Recently, I collaborated on a [publication](https://doi.org/10.1111/syen.12674) that updates the higher classification of the family, based on molecular data. While exploring natural history collections in the US and Latin America, I have published catalogs and taxonomic keys for [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). I am currently focused on inventorying the fauna in Costa Rica and other Central American countries. 
+My research focuses on the diversity and evolutionary history of Neotropical groups of Anthribidae (Coleoptera: Curculionoidea). Recently, I collaborated on a [publication](https://doi.org/10.1111/syen.12674) that updates the higher classification of the family, based on molecular data. While exploring natural history collections in the US and Latin America, I have published catalogs and taxonomic keys for [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). Currently, I am focused on inventorying the fauna in Costa Rica and other Central American countries, at the same time mobilizing collection data from available specimens. 
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
@@ -35,8 +35,10 @@ I am specially interested in studying the diversity and evolutionary history of 
 
 [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae) summarizes the identified specimens, once they are available on GBIF.
 
----
+<img width="6654" height="1474" alt="LoansAnthribidae" src="https://github.com/user-attachments/assets/f6144688-3453-49ec-acf7-62792bc77f3b" />
 
+
+---
 
 ### **Publications**
 
