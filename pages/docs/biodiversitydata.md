@@ -16,8 +16,6 @@ permalink: /docs/biodiversitydata
 
 ### Service
 
-<img width="640" height="480" alt="SSHgroup" src="https://github.com/user-attachments/assets/da4f9b44-129a-4a9a-92a8-8b5a00c9ac88" />
-
 -  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
   
 -  [**Global Biodiversity Information Facility**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
@@ -29,16 +27,17 @@ permalink: /docs/biodiversitydata
 -  [**Collected and Identfied Specimens**](https://bionomia.net/0000-0002-4098-5823). Contributions to natural history collections.
 
 
+<img width="640" height="480" alt="SSHgroup" src="https://github.com/user-attachments/assets/da4f9b44-129a-4a9a-92a8-8b5a00c9ac88" />
+
 ---
 
 ### Mentorship
 
-<img width="800" height="450" alt="Multimedia" src="https://github.com/user-attachments/assets/068754b4-d358-451d-8abe-2c3f175aeb03" />
-
-
 - **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator.
 
 - [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. Mentor.
+
+<img width="800" height="450" alt="Multimedia" src="https://github.com/user-attachments/assets/068754b4-d358-451d-8abe-2c3f175aeb03" />
 
 ---
 
