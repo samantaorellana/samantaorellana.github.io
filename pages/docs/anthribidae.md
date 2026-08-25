@@ -25,12 +25,13 @@ My research focuses on the diversity and evolutionary history of Neotropical gro
 |**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee) |
 |**CIPROC** | Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama) |
 |**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin) |
-|**MNCR** | Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero) |
+|**MNCR** | Museo Nacional de Costa Rica, formerly INBio, Costa Rica (Marianela Cambronero) |
 |**NMNH** | Smithsonian National Museum of Natural History, USA (Lourdes Chamorro) |
 |**NZAC** | New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan) |
 |**SOAC** | Samanta Orellana Research Collection, USA (Samanta Orellana) |
 |**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
 |**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
+|**UNMSM** | Universidad Nacional Mayor de San Marcos, Peru (Mabel Alvarado) |
 
 
 [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae) summarizes the identified specimens, once they are available on GBIF.
