@@ -16,9 +16,10 @@ permalink: /docs/biodiversitydata
 
 ### Service
 
--  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America.
--  [**Global Biodiversity Information Facility**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors).
--  [**Guatemala Biodiversity Portal**](https://biodiversidad.gt). Portal Admin.
+-  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
+-  [**Global Biodiversity Information Facility**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
+-  [**Guatemala Biodiversity Portal**](https://biodiversidad.gt). Portal Admin. (2020-present)
+-  [**Weevil Portal**](https://weevil.symbiota.org). Portal Admin. (2025-present)
 
 ---
 
@@ -94,6 +95,39 @@ permalink: /docs/biodiversitydata
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. (2023). Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 
 - Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. (2021). The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
+
+---
+
+### **Scientific Outreach**
+
+![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
+
+---
+
+## **Organized Workshops**
+
+- **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
+- **Advanced Tools for the Management of Scientific Collections in the Guatemala Biodiversity Portal** (in Spanish). Organizer and instructor. University of Kansas Biodiversity Institute and Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
+- **Introduction to the Guatemala Biodiversity Portal**. Co-organizer and instructor. Museo de Historia Natural, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
+- **Interactive Tools for the Study of Guatemalan Biodiversity** (virtual, in Spanish). September 2023. Organizer and instructor. Symbiota Support Hub, Arizona State University.
+- **A Guided Tour of the Guatemala Biodiversity Portal** (virtual, in Spanish). March 2023. Organizer and instructor. Symbiota Support Hub, Arizona State University.
+- **Natural History Collections Digitization and Mobilization with Symbiota Portals: Mexican Herbaria Network** (virtual, in Spanish). November 2022. Co-organizer and instructor. Mexican Herbaria Network and Arizona State University.
+- **Natural History Collections Digitization and Mobilization with Symbiota Portals** (virtual, in Spanish). September 2022. Organizer and instructor. Symbiota Support Hub, Arizona State University.
+- **Digitization of Natural History Collections in the Guatemala Biodiversity Symbiota Portal** (virtual, in Spanish). August 2022. Organizer and instructor. Symbiota Support Hub, Arizona State University.
+- **Introduction to Symbiota databases platform: Consortium of Small Vertebrate Collection** (virtual, in Spanish). August 2020. Organizer and instructor. Biological Collections System of the School of Biology, Universidad de San Carlos de Guatemala.
+- **Introduction to Symbiota databases platform: ecdysis** (virtual, in Spanish). July 2020. Organizer and instructor. Universidad del Valle de Guatemala.
+
+  ---
+
+### **Invited Presentations**
+
+- **Symbiota Portals** (virtual, in Spanish). September 2022. Natural History Collections Management Workshop, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia.
+- **Digitizing Natural History Collections in Guatemala** (virtual, in Spanish). September 2022. Connecting Collections Workshop Series, Society for the Preservation of Natural History Collections and the Global Biodiversity Information Facility.
+- **Publication of Biodiversity data to GBIF from the Guatemala Biodiversity Portal** (virtual, in Spanish). May 2022. Colegio de Farmacéuticos y Químicos de Guatemala.
+- **Introduction to the Guatemala Biodiversity Portal** (virtual, in Spanish). August 2021. Natural History Collections Digitization Workshop, Universidad del Valle de Guatemala.
+- **Symbiota: A platform to mobilize, integrate and use natural history collections data** (virtual, in Spanish). April 2021. Webinars Series, Sistema de Información sobre Biodiversidad de Colombia.
+- **Guatemala Biodiversity Portal:** Digitizing the biological collections of the country (virtual, in Spanish). March 2021. Conference Series Women in STEM: Science, Technology, Engineering, and Mathematics, Women Who Code, Guatemala.
+- **Digitization of Biological Collections using the Guatemala Biodiversity Portal** (virtual, in Spanish). February 2021. Undergraduate Collections Management Course, Universidad de San Carlos de Guatemala.
 
 ---
 
