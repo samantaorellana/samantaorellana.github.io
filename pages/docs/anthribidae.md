@@ -32,7 +32,7 @@ I am specially interested in studying the evolutionary history of Neotropical gr
 |**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
 |**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
 
-My [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae)** profile summarizes the specimens identified in different collections, once they are available on GBIF.
+My [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae) profile summarizes the specimens identified in different collections, once they are available on GBIF.
 
 ---
 
