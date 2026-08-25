@@ -36,11 +36,8 @@ permalink: /docs/anthribidae
   
 [<img width="400" height="266.7" alt="AnthribidaeCatalogmargin" src="https://github.com/user-attachments/assets/715b67a9-3adf-462d-8202-4aca6fba3f4f" />](https://anthribidae.github.io/species)
 
-
 - [**The Weevil Portal.**](https://weevil.symbiota.org) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
   
-[<img width="400" height="266.7" alt="AnthribidaeWeevilPortalmargin" src="https://github.com/user-attachments/assets/231af8e9-3798-46d9-bbdc-a92cd4c719bc" />](https://weevil.symbiota.org)
-
 - [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
   
 - [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/list.php), Digitized and imaged specimens. Updated regularly.
