@@ -15,14 +15,14 @@ permalink: /docs/cv
 
 ---
 
-## **Research Interests**
+### **Research Interests**
 - Taxonomy and systematics of fungus weevils (Coleoptera: Anthribidae).
 - Entomological collections management and digitization.
 - Biodiversity data accessibility for research, education and outreach.
 
 ---
 
-## **Education**
+### **Education**
 - [**Postdoctoral Researcher**](https://biodiversity.ku.edu/people/samanta-orellana), Biodiversity Institute and Natural History Museum, University of Kansas, Lawrence, KS, United States of America (2025-present)
 - **Ph.D. in Evolutionary Biology**, School of Life Sciences, Arizona State University, Tempe, AZ, United States of America (2024).
 - **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
@@ -31,12 +31,12 @@ permalink: /docs/cv
 
 ---
 
-## **Languages**
+### **Languages**
 Spanish, English
 
 ---
 
-## **Professional Experience**
+### **Professional Experience**
 
 - **Teaching Assistant.** General Biology, School of Life Sciences, Arizona State University. Tempe, Arizona, USA (2021-2024).
   
@@ -48,7 +48,7 @@ Spanish, English
 
 ---
 
-## **Mentorships**
+### **Mentorships**
 
 - **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator. (2026-2028)
 
@@ -58,7 +58,7 @@ Spanish, English
 
 ---
 
-## **Service**
+### **Service**
 
 -  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
   
@@ -72,7 +72,7 @@ Spanish, English
 
 ---
 
-## **Awards and Honors**
+### **Awards and Honors**
 - Elected Student Councilor. The Coleopterists Society. (2024-2025)
 - Full Scholarship for Master’s Degree Studies. Central American Regional Program, German Academic Exchange Service -DAAD- (2016-2018).
 - Research Incentives Award. Research Directorate, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. (2016)
@@ -80,11 +80,11 @@ Spanish, English
 
 ---
 
-## **Publications**
+### **Publications**
 
 ---
 
-### **Research Papers**
+#### **Research Papers**
 
 - Castillo-Cabrera FJ, Roldán RA, Barrios M, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez D, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS**. (2025). Contribution to the knowledge of urban biodiversity in Central America: A checklist to the species of Guatemala City. Neotropical Biology and Conservation 20(1): 59-66. [https://doi.org/10.3897/neotropical.20.e135435](https://doi.org/10.3897/neotropical.20.e135435)
   
@@ -100,7 +100,7 @@ Spanish, English
   
 ---
 
-### **Books and Chapters**
+#### **Books and Chapters**
 
 - **Orellana KS**, Franz NM. (2023). Checklist of the Anthribidae (Coleoptera: Curculionoidea) of Guatemala, including new country records and a key to genera. In: Yoshimoto J, Schuster J, Monzón J. (Eds.) Biodiversidad de Guatemala. Vol. 3. Universidad del Valle de Guatemala: Guatemala. [https://doi.org/10.5281/zenodo.10424024](https://doi.org/10.5281/zenodo.10424024) (Book Chapter)
   
@@ -114,7 +114,7 @@ Spanish, English
   
 ---
 
-### **Published Abstracts** (* Presenting author)
+#### **Published Abstracts** (* Presenting author)
 
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
@@ -136,7 +136,7 @@ Spanish, English
 
 ---
 
-## **Conference Presentations** (* Presenting author)
+### **Conference Presentations** (* Presenting author)
 
 - **Orellana KS***, Franz N, Gilbert E, Freire-Fierro A. (2025). Digitization of Latin American Herbaria with Symbiota (in Spanish). Latin American Botanical Congress. La Habana, Cuba (virtual).
 
@@ -184,7 +184,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ---
 
-## **Poster Presentations**
+### **Poster Presentations**
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. (2023). Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 
 - Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. (2021). The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
@@ -193,11 +193,11 @@ Guatemala, Guatemala City, Guatemala.
   
 ---
 
-## **Scientific Outreach**
+### **Scientific Outreach**
 
 ---
 
-### **Organized Workshops**
+#### **Organized Workshops**
 
 - **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
   
@@ -220,7 +220,7 @@ Guatemala, Guatemala City, Guatemala.
   
 ---
 
-### **Invited Presentations**
+#### **Invited Presentations**
 
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
 
@@ -234,7 +234,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ---
 
-### **Online Resources**
+#### **Online Resources**
 
 - [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
   
@@ -254,7 +254,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ---
 
-## **Complementary Training**
+### **Complementary Training**
 
 - [**Weevil Course & Roundup.**](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA (2025).
 - [**Entomological Collection Management Workshop.**](https://ecnweb.net/workshop/alumni/) Entomological Collection Network and Arizona State University, Arizona, USA (2022).
@@ -278,7 +278,7 @@ Introduction to Chrysomelidae (Coleoptera) Taxonomy (Course). Multidisciplinary 
 
 ---
 
-## **Professional Memberships**
+### **Professional Memberships**
 - The Coleopterist Society
 - Entomological Society of America
 - Society for the Preservation of Natural History Collections
