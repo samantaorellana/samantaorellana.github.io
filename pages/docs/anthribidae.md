@@ -29,14 +29,18 @@ permalink: /docs/anthribidae
 ### **Online Resources**
 
 - [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
-[<img width="1600" height="1067" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/b1c7a787-6742-4047-8dc6-4450d4545a42" />](https://anthribidae.github.io)
+  
+[<img width="400" height="266.7" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/b1c7a787-6742-4047-8dc6-4450d4545a42" />](https://anthribidae.github.io)
 
 - [**Anthribidae Catalog.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
-[<img width="1600" height="1067" alt="AnthribidaeCatalogmargin" src="https://github.com/user-attachments/assets/715b67a9-3adf-462d-8202-4aca6fba3f4f" />](https://anthribidae.github.io/species)
+  
+[<img width="400" height="266.7" alt="AnthribidaeCatalogmargin" src="https://github.com/user-attachments/assets/715b67a9-3adf-462d-8202-4aca6fba3f4f" />](https://anthribidae.github.io/species)
 
 
 - [**The Weevil Portal.**](https://weevil.symbiota.org) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
-[<img width="1600" height="1067" alt="AnthribidaeWeevilPortalmargin" src="https://github.com/user-attachments/assets/231af8e9-3798-46d9-bbdc-a92cd4c719bc" />](https://weevil.symbiota.io)
+  
+[<img width="400" height="266.7" alt="AnthribidaeWeevilPortalmargin" src="https://github.com/user-attachments/assets/231af8e9-3798-46d9-bbdc-a92cd4c719bc" />](https://weevil.symbiota.org)
+
 
 ---
 
@@ -62,7 +66,7 @@ permalink: /docs/anthribidae
 
 ## **Invited Presentations**
 
-<img width="540" height="675" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
+<img width="270" height="337.5" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
 
 
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
