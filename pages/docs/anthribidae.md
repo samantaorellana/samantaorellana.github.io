@@ -14,18 +14,24 @@ I am specially interested in studying the evolutionary history of Neotropical gr
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
-### **Visited Collections and Loans**
+---
 
-- **AMNH**     American Museum of Natural History, USA (Lee Herman, loan)
-- **ASUCOB**   OBrien Collection, Arizona State University, USA (Sangmi Lee)
-- **ASUHIC**   Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee)
-- **CIPROC**   Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama)
-- **KUNHM**    University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)
-- **MNCR**     Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero)
-- **NMNH**     Smithsonian National Museum of Natural History, USA (Lourdes Chamorro)
-- **NZAC**     New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan)
-- **SSAC**     Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo)
-- **UCRG**     Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora)
+### **Examined Collections and Loans**
+
+| **Code** | **Collection** |
+|---|---|
+|**AMNH** | American Museum of Natural History, USA (Lee Herman, loan) |
+|**ASUCOB** | OBrien Collection, Arizona State University, USA (Sangmi Lee) |
+|**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee) |
+|**CIPROC** | Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama) |
+|**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin, Rachel Osborn)) |
+|**MNCR** | Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero) |
+|**NMNH** | Smithsonian National Museum of Natural History, USA (Lourdes Chamorro) |
+|**NZAC** | New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan) |
+|**SOAC** | Samanta Orellana Research Collection, USA (Samanta Orellana) |
+|**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
+|**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
+
 
 ---
 
