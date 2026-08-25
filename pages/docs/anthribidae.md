@@ -50,7 +50,7 @@ I am specially interested in studying the evolutionary history of Neotropical gr
   
 ---
 
-## Meadia Features 
+### **Media Features **
 
 - **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
