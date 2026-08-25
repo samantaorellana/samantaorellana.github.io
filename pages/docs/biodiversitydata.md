@@ -17,8 +17,11 @@ permalink: /docs/biodiversitydata
 ### Service
 
 -  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
+  
 -  [**Global Biodiversity Information Facility**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
+  
 -  [**Guatemala Biodiversity Portal**](https://biodiversidad.gt). Portal Admin. (2020-present)
+  
 -  [**Weevil Portal**](https://weevil.symbiota.org). Portal Admin. (2025-present)
 
 ---
