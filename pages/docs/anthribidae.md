@@ -28,12 +28,15 @@ permalink: /docs/anthribidae
 
 ### **Online Resources**
 
-- **Anthribidae Website** [<img style="float: right;" width="320" height="213.4" alt="SOre" src="https://github.com/user-attachments/assets/826d3d22-c94e-4006-8972-6019dc72786a">](https://anthribidae.github.io)
+- [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
+[<img width="1600" height="1067" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/b1c7a787-6742-4047-8dc6-4450d4545a42" />](https://anthribidae.github.io)
 
-- **Anthribidae Catalog** [<img style="float: right;" width="320" height="213.4" alt="SOre" src="https://github.com/user-attachments/assets/4547697b-052b-4a73-9340-c00fa810e6e9">](https://anthribidae.github.io/species)
+- [**Anthribidae Catalog.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
+[<img width="1600" height="1067" alt="AnthribidaeCatalogmargin" src="https://github.com/user-attachments/assets/715b67a9-3adf-462d-8202-4aca6fba3f4f" />](https://anthribidae.github.io/species)
 
-- **Weevil Portal** [<img style="float: right;" width="320" height="213.4" alt="SOre" src="https://github.com/user-attachments/assets/b9edbbb2-582d-4ef3-b61b-975826f2eaf4">](https://weevil.symbiota.org/portal/index.php)
 
+- [**The Weevil Portal.**](https://weevil.symbiota.org) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
+[<img width="1600" height="1067" alt="AnthribidaeWeevilPortalmargin" src="https://github.com/user-attachments/assets/231af8e9-3798-46d9-bbdc-a92cd4c719bc" />](https://weevil.symbiota.io)
 
 ---
 
@@ -59,9 +62,10 @@ permalink: /docs/anthribidae
 
 ## **Invited Presentations**
 
-- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
+<img width="540" height="675" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
 
-- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). School of Agricultural Sciences, Universidad Rafael Landívar. Guest speaker for the undergraduate Botany course. July 2021.
+
+- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
 
 - **Introduction to Coleoptera** (virtual, in Spanish). Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste. November 2020.
 
