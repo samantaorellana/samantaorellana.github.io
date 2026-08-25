@@ -28,7 +28,7 @@ permalink: /docs/anthribidae
 
 ### **Online Resources**
 
-- [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
+- [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae groups (2022-present).
   
 [<img width="400" height="266.7" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/b1c7a787-6742-4047-8dc6-4450d4545a42" />](https://anthribidae.github.io)
 
@@ -40,7 +40,7 @@ permalink: /docs/anthribidae
   
 - [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
   
-- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/list.php), Digitized and imaged specimens. Updated regularly.
+- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/misc/collprofiles.php?collid=20), Digitized and imaged specimens. Updated regularly.
   
 - [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website to share information about entomology and insect fauna in Guatemala.
 
