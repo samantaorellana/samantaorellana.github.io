@@ -9,6 +9,8 @@ permalink: /docs/cv
 ## **CV**
 ---
 
+| [ORCID](https://orcid.org/0000-0002-4098-5823) | [Bionomia](https://bionomia.net/0000-0002-4098-5823) | 
+
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
 
 ---
@@ -21,7 +23,7 @@ permalink: /docs/cv
 ---
 
 ## **Education**
-- **Postdoctoral Researcher**, Biodiversity Institute and Natural History Museum, University of Kansas, Lawrence, KS, United States of America (2025-present)
+- [**Postdoctoral Researcher**](https://biodiversity.ku.edu/people/samanta-orellana), Biodiversity Institute and Natural History Museum, University of Kansas, Lawrence, KS, United States of America (2025-present)
 - **Ph.D. in Evolutionary Biology**, School of Life Sciences, Arizona State University, Tempe, AZ, United States of America (2024).
 - **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
 - **Postgraduate Diploma in Entomology**, Universidad de Panama, Panama City, Panama (2017).
