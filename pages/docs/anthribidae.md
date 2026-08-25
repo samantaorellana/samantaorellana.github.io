@@ -10,7 +10,7 @@ permalink: /docs/anthribidae
 
 ## **Diversity and Systematics of Neotropical Anthribidae**
 
-I am specially interested in studying the evolutionary history of Neotropical groups of Anthribidae (Coleoptera: Curculionidae) based on morphological characters. Recently, I also collaborated on a [publication](https://doi.org/10.1111/syen.12674) that updates the higher classification of the family, based on molecular data. While exploring natural history collections in the US and Latin America for my research, I have published catalogs and taxonomic keys for [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). I am currently focused on inventorying the fauna in Costa Rica and other Central American countries. 
+I am specially interested in studying the evolutionary history of Neotropical groups of Anthribidae (Coleoptera: Curculionidae) based on morphological characters. Recently, I also collaborated on a [publication](https://doi.org/10.1111/syen.12674) that updates the higher classification of the family, based on molecular data. While exploring natural history collections in the US and Latin America, I have published catalogs and taxonomic keys for [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). I am currently focused on inventorying the fauna in Costa Rica and other Central American countries. 
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
@@ -25,16 +25,18 @@ I am specially interested in studying the evolutionary history of Neotropical gr
 |**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee) |
 |**CIPROC** | Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama) |
 |**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin) |
-|**MNCR** | Museo Nacional de Costa Rica, former INBio, Costa Rica (Marianela Cambronero) |
+|**MNCR** | Museo Nacional de Costa Rica, forhttps://github.com/samantaorellana/samantaorellana.github.io/tree/main/pagesmer INBio, Costa Rica (Marianela Cambronero) |
 |**NMNH** | Smithsonian National Museum of Natural History, USA (Lourdes Chamorro) |
 |**NZAC** | New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan) |
 |**SOAC** | Samanta Orellana Research Collection, USA (Samanta Orellana) |
 |**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
 |**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
 
+
 [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae) summarizes the identified specimens, once they are available on GBIF.
 
 ---
+
 
 ### **Publications**
 
@@ -48,9 +50,15 @@ I am specially interested in studying the evolutionary history of Neotropical gr
   
 ---
 
-### **Online Resources**
+## Meadia Features 
 
-[<img width="400" height="266.7" alt="AnthribidaeSidemargin" src="https://github.com/user-attachments/assets/b1c7a787-6742-4047-8dc6-4450d4545a42" />](https://anthribidae.github.io)
+- **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
+  
+<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
+
+---
+
+### **Online Resources**
 
 - [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae groups (2022-present).
   
