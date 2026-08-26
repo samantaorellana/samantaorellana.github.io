@@ -16,7 +16,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Digitized and Mobilized Collections**
+### **Digitized and Mobilized Collections** (Partial list)
 
 | **#** | **Country** | **Name** | **Links** |
 |---|---|---|---|
@@ -66,8 +66,6 @@ I have volunteered and worked in natural history collections for over 15 years i
 | 44 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Chrysomelidae** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=86), GBIF |
 | 45 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Odonata** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=19), GBIF |
 | 46 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Peces** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090), GBIF |
-
-
 
 
 [<img width="1441" height="609" alt="image" src="https://github.com/user-attachments/assets/7ce2073c-2c63-4c06-b994-1004fb37a1cb" />
