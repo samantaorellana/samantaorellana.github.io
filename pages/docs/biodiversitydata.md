@@ -45,21 +45,27 @@ I have volunteered and worked in natural history collections for over 15 years i
 | 23 | Guatemala | **Universidad del Valle de Guatemala, Colección de Artrópodos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16), GBIF |
 | 24 | Guatemala | **Universidad del Valle de Guatemala, Colección de Anfibios** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3), GBIF |
 | 25 | Guatemala | **Universidad del Valle de Guatemala, Colección de Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2), GBIF |
-| 26 | Guatemala | **Universidad del Valle de Guatemala, Colección de Crustáceos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48), GBIF |
-| 27 | Guatemala | **Universidad del Valle de Guatemala, Colección de Equinodermos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44), GBIF |
-| 28 | Guatemala | **Universidad del Valle de Guatemala, Colección de Mamíferos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4), GBIF |
-| 29 | Guatemala | **Universidad del Valle de Guatemala, Colección de Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27), GBIF |
-| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Peces** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5), GBIF |
-| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Reptiles** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6), GBIF |
-| 31 | Guatemala | **Universidad del Valle de Guatemala, Colección de Tejidos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81), GBIF |
-| 32 | Guatemala | **Universidad del Valle de Guatemala, Herbario UVAL** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19), GBIF |
-| 33 | Nicaragua | **Colección Vertebrada de Nicaragua, Observaciones de Campo** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127), GBIF |
-| 34 | Nicaragua | **Colección Vertebrada de Nicaragua, Registros Fotográficos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
-| 35 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Arácnidos** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=67), GBIF |
-| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
-| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección Herpetológica** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078), GBIF |
-| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Ortópteros** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=66), GBIF |
-| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077), GBIF |
+| 26 | Guatemala | **Universidad del Valle de Guatemala, Colección de Bromelias** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104), GBIF |
+| 27 | Guatemala | **Universidad del Valle de Guatemala, Colección de Crustáceos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48), GBIF |
+| 28 | Guatemala | **Universidad del Valle de Guatemala, Colección de Equinodermos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44), GBIF |
+| 29 | Guatemala | **Universidad del Valle de Guatemala, Colección de Mamíferos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4), GBIF |
+| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27), GBIF |
+| 31 | Guatemala | **Universidad del Valle de Guatemala, Colección de Peces** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5), GBIF |
+| 32 | Guatemala | **Universidad del Valle de Guatemala, Colección de Reptiles** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6), GBIF |
+| 33 | Guatemala | **Universidad del Valle de Guatemala, Colección de Orquídeas** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22), GBIF |
+| 34 | Guatemala | **Universidad del Valle de Guatemala, Colección de Tejidos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81), GBIF |
+| 35 | Guatemala | **Universidad del Valle de Guatemala, Herbario UVAL** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19), GBIF |
+| 36 | Nicaragua | **Colección Vertebrada de Nicaragua, Observaciones de Campo** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127), GBIF |
+| 37 | Nicaragua | **Colección Vertebrada de Nicaragua, Registros Fotográficos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
+| 38 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Arácnidos** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=67), GBIF |
+| 39 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
+| 40 | República Dominicana | **Museo Nacional de Historia Natural, Colección Herpetológica** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078), GBIF |
+| 41 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Murciélagos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1076), GBIF |
+| 42 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Ortópteros** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=66), GBIF |
+| 43 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077), GBIF |
+| 44 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Chrysomelidae** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=86), GBIF |
+| 45 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Odonata** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=19), GBIF |
+| 46 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Peces** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090), GBIF |
 
 
 
