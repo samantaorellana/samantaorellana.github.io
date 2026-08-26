@@ -18,14 +18,19 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ### **Digitized and Mobilized Collections**
 
-| # | Country | Code | Name |
-|---|---|---|---|
-| 1 | Costa Rica | **MIUCR** | [Universidad de Costa Rica, Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) | 
-| 2 | Costa Rica | **UCRG-Insectos** | [Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) |
-| 3 | Costa Rica | **UCRG-Semillas** | [Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2)  |
-| 4 |Guatemala | **USAC** | [Universidad de San Carlos de Guatemala, Colección de Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17) | Symbiota, GBIF |
-| 5 |Guatemala | **USACL** | [Universidad de San Carlos de Guatemala, Colección de Artrópodos, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167) |
-| 6 |Guatemala | **USAClitellata** | [Universidad del Valle de Guatemala, Colección de Anélidos Clitelados](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) |
+| # | Country | Name |
+|---|---|---|
+| 1 | Costa Rica | [Universidad de Costa Rica, Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) | 
+| 2 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) |
+| 3 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2)  |
+| 4 |Guatemala | [Universidad del Valle de Guatemala, Colección de Anélidos Clitelados](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) |
+| 5 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17) |
+| 6 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167) |
+| 7 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Aves, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9) |
+| 8 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74) |
+| 9 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26) |
+| 10 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) |
+
 
 
 [<img width="1441" height="609" alt="image" src="https://github.com/user-attachments/assets/7ce2073c-2c63-4c06-b994-1004fb37a1cb" />
