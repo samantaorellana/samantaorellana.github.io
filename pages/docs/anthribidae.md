@@ -58,7 +58,8 @@ My research focuses on the diversity and evolutionary history of Neotropical gro
 
 - **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
-<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
+[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
+](https://blog.biodiversitylibrary.org/author/grace-costantino)
 
 ---
 
@@ -72,7 +73,7 @@ My research focuses on the diversity and evolutionary history of Neotropical gro
   
 - [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
   
-- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/misc/collprofiles.php?collid=20), Digitized and imaged specimens. Updated regularly.
+- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/misc/collprofiles.php?collid=20) Digitized and imaged specimens. Updated regularly.
   
 - [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website to share information about entomology and insect fauna in Guatemala.
 
