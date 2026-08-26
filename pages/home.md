@@ -6,6 +6,8 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /
 ---
 
+|[Español](https://samantaorellana.github.io/docs/inicio) | 
+|---|
 
 ---
 
@@ -18,7 +20,7 @@ permalink: /
 [![SOhomepage2](https://github.com/user-attachments/assets/a1e4e06a-b9bc-465f-8af0-ea13a353ba3e)](https://samantaorellana.github.io/docs/anthribidae)
 [![SOhomepage3](https://github.com/user-attachments/assets/3547f79a-e7d2-4620-abc8-b38e6d9e269c)](https://samantaorellana.github.io/docs/biodiversitydata)
 
-|[Español](https://samantaorellana.github.io/docs/inicio) | 
+
 
 
 
