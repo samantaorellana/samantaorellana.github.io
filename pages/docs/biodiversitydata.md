@@ -28,8 +28,8 @@ I have volunteered and worked in natural history collections for over 15 years i
 | 6 |Guatemala | **USAClitellata** | [Universidad del Valle de Guatemala, Colección de Anélidos Clitelados](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) |
 
 
-<img width="1354" height="702" alt="image" src="https://github.com/user-attachments/assets/03f67ff5-947c-4dbd-b01b-7983cebe037e" />
-
+[<img width="1441" height="609" alt="image" src="https://github.com/user-attachments/assets/7ce2073c-2c63-4c06-b994-1004fb37a1cb" />
+](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA)
 
 ---
 
