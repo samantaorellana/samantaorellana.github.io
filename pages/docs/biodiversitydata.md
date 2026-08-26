@@ -14,27 +14,6 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 <img width="8236" height="2593" alt="SOhomepage3" src="https://github.com/user-attachments/assets/f41c3760-d42b-4f7d-bcda-71531b5ee81a" />
 
----
-
-### **Digitized and Mobilized Collections**
-
-| # | Country | Name |
-|---|---|---|
-| 1 | Costa Rica | [Universidad de Costa Rica, Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) | 
-| 2 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) |
-| 3 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2)  |
-| 4 |Guatemala | [Universidad del Valle de Guatemala, Colección de Anélidos Clitelados](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) |
-| 5 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17) |
-| 6 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167) |
-| 7 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Aves, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9) |
-| 8 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74) |
-| 9 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26) |
-| 10 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) |
-
-
-
-[<img width="1441" height="609" alt="image" src="https://github.com/user-attachments/assets/7ce2073c-2c63-4c06-b994-1004fb37a1cb" />
-](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA)
 
 ---
 
