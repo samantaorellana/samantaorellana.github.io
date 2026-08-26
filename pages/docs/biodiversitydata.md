@@ -10,7 +10,69 @@ permalink: /docs/biodiversitydata
 
 ## **Collections Digitization and Biodiversity Data**
 
+I have volunteered and worked in natural history collections for over 15 years in Guatemala, Panama, and the United States. As a research assistant at the ASU [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/), I had the opportunity to join digitization efforts using [Symbiota](https://symbiota.org) portals, which led to the development of a new platform to digitize [Guatemalan collections](https://biodiversidad.gt). I officially joined the [Symbiota Support Hub](https://symbiota.org/about-us/) in 2021, assisting Latin American collections in their digitization projects. I am also part of the GBIF Network, serving as delegate for the Symbiota Node and a volunteer mentor for biodiversity data mobilization projects. Direct collaborations in Latin America have resulted in more than 100 collections live managed in Symbiota portals, and over [70,000 specimen records](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA) mobilized to GBIF by 49 collections in Guatemala, Nicaragua, Costa Rica, and the Dominican Republic. 
+
 <img width="8236" height="2593" alt="SOhomepage3" src="https://github.com/user-attachments/assets/f41c3760-d42b-4f7d-bcda-71531b5ee81a" />
+
+---
+
+### Digitized and Mobilized Collections
+
+| # | Country | Code | Name | Links |
+|---|---|---|---|---|
+| 1 | Costa Rica | MIUCR | Universidad de Costa Rica, Museo de Insectos | [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=34), [GBIF](https://www.gbif.org/dataset/016548cd-4b5e-49cc-81b6-f2a4a09d5ba8) |
+| 2 | Costa Rica | UCRG-Insectos | Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola | [Symbiota](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1), GBIF |
+| 3 | Costa Rica | UCRG-Semillas | Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía  | [Symbiota](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1), GBIF |
+| 4 |Guatemala | USAC | Universidad de San Carlos de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 5 |Guatemala | USACA | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 6 |Guatemala | USACM | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 7 |Guatemala | USACMol | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 8 |Guatemala | USACPor | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 9 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 10 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 11 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 12 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 13 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 14 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 15 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 16 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 17 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 18 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 19 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 20 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 21 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 22 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 23 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 24 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 25 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 26 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 27 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 28 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 29 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 30 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 31 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 32 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 33 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 34 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 35 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 36 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 37 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 38 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 39 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 40 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 41 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 42 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 43 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 44 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 45 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 46 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 47 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 48 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 49 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+| 50 |Guatemala | UVGC | Universidad del Valle de Guatemala, Colección de Artrópodos | Symbiota, GBIF |
+
+<img width="1354" height="702" alt="image" src="https://github.com/user-attachments/assets/03f67ff5-947c-4dbd-b01b-7983cebe037e" />
+
 
 ---
 
