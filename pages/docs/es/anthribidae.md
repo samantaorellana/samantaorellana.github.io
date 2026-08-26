@@ -10,29 +10,29 @@ permalink: /docs/es/anthribidae
 
 ## **Diversidad y Sistemática de Anthribidae Neotropical**
 
-Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropicales de [Anthribidae](https://anthribidae.github.io) (Coleoptera: Curculionoidea). Mi investigación es mayormente basada en colecciones y he publicado catálogos y claves para la fauna de [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). A recent [collaboration](https://doi.org/10.1111/syen.12674) led to updates on the higher classification of the family, based on molecular data. Currently, I am focused on inventorying the Anthribidae fauna in Central America, while mobilizing data and images from available specimens. 
+Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropicales de [Anthribidae](https://anthribidae.github.io) (Coleoptera: Curculionoidea). Mi investigación es mayormente basada en colecciones y he publicado catálogos y claves para la fauna de [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panamá](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). Una [colaboración](https://doi.org/10.1111/syen.12674) reciente resultó en actualizaciones en la clasificación superior de la familia, basadas en evidencia molecular. Actualmente, estoy enfocada en inventariar la fauna de Anthribidae de Centroamérica, mientras movilizo datos e imágenes de los especímenes disponibles.  
 
 <img width="3972" height="1736" alt="6df139f7-0a80-4767-bf29-f8f5f1a16da9" src="https://github.com/user-attachments/assets/6642f0c4-90dc-4f68-86bd-3ce166b93a7c" />
 
 ---
 
-### **Examined Collections and Loans**
+### **Colecciones y Préstamos Examinados**
 
-| **Code** | **Collection** |
+| **Código** | **Colección** |
 |---|---|
-|**AMNH** | American Museum of Natural History, USA (Lee Herman, loan) |
-|**ASUCOB** | OBrien Collection, Arizona State University, USA (Sangmi Lee) |
-|**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, USA (Sangmi Lee) |
+|**AMNH** | American Museum of Natural History, EEUU (Lee Herman, loan) |
+|**ASUCOB** | OBrien Collection, Arizona State University, EEUU (Sangmi Lee) |
+|**ASUHIC** | Hasbrouck Insect Collection, Arizona State University, EEUU (Sangmi Lee) |
 |**CIPROC** | Museo de Insectos, Universidad de Costa Rica, Costa Rica (Andrés Arias, Humberto Lezama) |
 |**ICN** | Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Colombia (Juan Pablo Botero) |
-|**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, USA (Zack Falin) |
+|**KUNHM** | University of Kansas Biodiversity Institute and Natural History Museum, EEUU (Zack Falin) |
 |**MNCR** | Museo Nacional de Costa Rica, formerly INBio, Costa Rica (Marianela Cambronero) |
-|**NMNH** | Smithsonian National Museum of Natural History, USA (Lourdes Chamorro) |
-|**NZAC** | New Zealand Arthropod Collection, New Zealand (Richard Leschen, Grace Hall, loan) |
-|**SOAC** | Samanta Orellana Research Collection, USA (Samanta Orellana) |
-|**SSAC** | Salvatore S. Anzaldo Research Collection, USA (Salvatore S. Anzaldo) |
+|**NMNH** | Smithsonian National Museum of Natural History, EEUU (Lourdes Chamorro) |
+|**NZAC** | New Zealand Arthropod Collection, Nueva Zelanda (Richard Leschen, Grace Hall, loan) |
+|**SOAC** | Samanta Orellana Research Collection, EEUU (Samanta Orellana) |
+|**SSAC** | Salvatore S. Anzaldo Research Collection, EEUU (Salvatore S. Anzaldo) |
 |**UCRG** | Universidad de Costa Rica, Sede Guanacaste, Costa Rica (Jairo Mora) |
-|**UNMSM** | Universidad Nacional Mayor de San Marcos, Peru (Mabel Alvarado) |
+|**UNMSM** | Universidad Nacional Mayor de San Marcos, Perú (Mabel Alvarado) |
 
 
 [**Bionomia**](https://bionomia.net/0000-0002-4098-5823/specimens?action=identified&family=Anthribidae) summarizes the identified specimens, once they are available on GBIF.
@@ -42,7 +42,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ---
 
-### **Publications**
+### **Publicaciones**
 
 - McKenna DD, Oberprieler RG, Marvaldi AE, Brown SDJ, Charles M, Medeiros BAS, Farrell BD, Leschen RAB, Mermudes JRM, **Orellana KS**, Shin S, Stals R, Li X. (2025). Unraveling the evolution of mycetophagy and phytophagy in fungus weevils (Curculionoidea: Anthribidae): Phylogenomic insights into Anthribinae paraphyly and tribal non-monophyly. Systematic Entomology, 1–13. [https://doi.org/10.1111/syen.12674](https://doi.org/10.1111/syen.12674)
   
@@ -54,7 +54,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
   
 ---
 
-### **Media Features**
+### **Notas en Medios**
 
 - **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
@@ -63,23 +63,23 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ---
 
-### **Online Resources**
+### **Recursos en Línea**
 
-- [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae groups (2022-present).
+- [**Sitio de Anthribidae.**](https://anthribidae.github.io) Sitio dedicado a compartir información acerca de grupos de Anthribidae (2022-present).
   
-- [**Anthribidae Catalog.**](https://anthribidae.github.io/species) Virtual Catalog of Anthribidae generated with TaxonWorks and TaxonPages (2023-present).
+- [**Catálogo de Anthribidae.**](https://anthribidae.github.io/species) Catálogo virtual de Anthribidae generado con TaxonWorks y TaxonPages (2023-present).
   
-- [**The Weevil Portal.**](https://weevil.symbiota.org) Symbiota portal focused on the superfamily Curculionoidea (2024-present).
+- [**The Weevil Portal.**](https://weevil.symbiota.org) Portal Symbiota enfocado en la superfamily Curculionoidea (2024-present).
   
-- [**Anthribidae of KUNHM Collections.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Digitized and imaged specimens. Updated regularly.
+- [**Anthribidae de KUNHM.**](https://weevil.symbiota.org/portal/collections/list.php?db=12&taxontype=3&reset=1&usethes=1&taxa=Anthribidae) Especímenes digitalizados y fotografiados. Actualizado regularmente.
   
-- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/misc/collprofiles.php?collid=20) Digitized and imaged specimens. Updated regularly.
+- [**Samanta Orellana Research Collection.**](https://ecdysis.org/collections/misc/collprofiles.php?collid=20) Especímenes digitalizados y fotografiados. Actualizado regularmente.
   
-- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Website to share information about entomology and insect fauna in Guatemala.
+- [**Insectos de Guatemala.**](https://insectosdeguatemala.org) Sitio para compartir información acerca de entomología y fauna de insectos en Guatemala. 
 
 ---
 
-### **Conference Presentations** (* Presenting author)
+### **Presentaciones en Conferencias** (* Presentadora)
 
 - **Orellana KS***. (2024). Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
 
@@ -95,22 +95,22 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 - **Orellana KS***. (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona.
 
-- **Orellana KS***. (2019). New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
+- **Orellana KS***. (2019). Nuevos registros y extensiones de rango para Anthribidae (Coleoptera: Curculionoidea) de Panamá. III Coloquio de Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
 
 ---
 
-## **Invited Presentations**
+## **Presentaciones Invitadas**
 
 <img width="270" height="337.5" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
 
 
-- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
+- **Sistemática de Anthribidae Neotropical: Contribuciones desde las colecciones entomológicas**. Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. Julio 2025.
 
-- **Introduction to Coleoptera** (virtual, in Spanish). Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste. November 2020.
+- **Introducción a Coleoptera** (virtual). Curso de Entomología, Universidad de Costa Rica, Campus Guanacaste. Noviembre 2020.
 
-- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. August 2020.
+- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. Agosto 2020.
 
-- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. March 2020.
+- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. Marzo 2020.
 
 ---
 
