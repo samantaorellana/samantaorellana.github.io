@@ -21,49 +21,16 @@ I have volunteered and worked in natural history collections for over 15 years i
 | **#** | **Country** | **Institutions**|**Collections** |
 |---|---|---|---|
 | 1 | Costa Rica | **Universidad de Costa Rica** | [Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) |
-| 2 | Costa Rica | **Universidad de Costa Rica Guanacaste** | [Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) - [Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2) |
+| 2 | Costa Rica | **Universidad de Costa Rica Sede Guanacaste** | [Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) - [Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2) |
 | 3 | Guatemala | **Universidad de San Carlos de Guatemala, Escuela de Biología** | [Anélidos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) - [Aves](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9) - [Cnidarios](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73) - [Crustáceos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72) - [Entomología](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17) - [Entomología Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167) - [Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74) - [Ictiología](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10) - [Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) - [Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26) - [Paleontología](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50) - [Porífera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=75) |
 | 4 | Guatemala | **Universidad de San Carlos de Guatemala, Centro de Estudios Conservacionistas** | [Herbario USCG](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) - [USCG Briófitos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=128) - [USCG Hongos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69) - [USCG Líquenes](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91) |
-
-
-
-
-
-| 20 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49), GBIF |
-| 21 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Insectos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43), GBIF |
-| 22 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=143), GBIF |
-| 23 | Guatemala | **Universidad del Valle de Guatemala, Colección de Artrópodos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16), GBIF |
-| 24 | Guatemala | **Universidad del Valle de Guatemala, Colección de Anfibios** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3), GBIF |
-| 25 | Guatemala | **Universidad del Valle de Guatemala, Colección de Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2), GBIF |
-| 26 | Guatemala | **Universidad del Valle de Guatemala, Colección de Bromelias** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104), GBIF |
-| 27 | Guatemala | **Universidad del Valle de Guatemala, Colección de Crustáceos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48), GBIF |
-| 28 | Guatemala | **Universidad del Valle de Guatemala, Colección de Equinodermos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44), GBIF |
-| 29 | Guatemala | **Universidad del Valle de Guatemala, Colección de Mamíferos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4), GBIF |
-| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27), GBIF |
-| 31 | Guatemala | **Universidad del Valle de Guatemala, Colección de Peces** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5), GBIF |
-| 32 | Guatemala | **Universidad del Valle de Guatemala, Colección de Reptiles** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6), GBIF |
-| 33 | Guatemala | **Universidad del Valle de Guatemala, Colección de Orquídeas** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22), GBIF |
-| 34 | Guatemala | **Universidad del Valle de Guatemala, Colección de Tejidos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81), GBIF |
-| 35 | Guatemala | **Universidad del Valle de Guatemala, Herbario UVAL** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19), GBIF |
-| 36 | Nicaragua | **Colección Vertebrada de Nicaragua, Observaciones de Campo** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127), GBIF |
-| 37 | Nicaragua | **Colección Vertebrada de Nicaragua, Registros Fotográficos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
-| 38 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Arácnidos** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=67), GBIF |
-| 39 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
-| 40 | República Dominicana | **Museo Nacional de Historia Natural, Colección Herpetológica** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078), GBIF |
-| 41 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Murciélagos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1076), GBIF |
-| 42 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Ortópteros** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=66), GBIF |
-| 43 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077), GBIF |
-| 44 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Chrysomelidae** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=86), GBIF |
-| 45 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Odonata** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=19), GBIF |
-| 46 | República Dominicana | **Universidad Autónoma de Santo Domingo, Colección de Peces** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090), GBIF |
-
-
-[<img width="1441" height="609" alt="image" src="https://github.com/user-attachments/assets/7ce2073c-2c63-4c06-b994-1004fb37a1cb" />
-](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA)
+| 5 | Guatemala | **Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa** | [Aves](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49) - [Insectos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43) - [Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=143) |
+| 6 | Guatemala | **Universidad del Valle de Guatemala** |  [Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) - [Anfibios](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3) - [Aves](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2) - [Bromelias](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104) - [Crustáceos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48) - [Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44) -  [Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4) - [Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27) - [Peces](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5) - [Reptiles](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6) - [Orquídeas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22) - [Tejidos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81) - [Herbario UVAL](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)|
+| 7 | Nicaragua | **Colección Vertebrada de Nicaragua** | [Observaciones de Campo](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127) - [Registros Fotográficos](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126) |
+| 8 | Dominican Republic | **Museo Nacional de Historia Natural** | [Arácnidos](https://ecdysis.org/collections/misc/collprofiles.php?collid=67) - [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126) - [Herpetología](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078) - [Murciélagos](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1076) - [Ortópteros](https://ecdysis.org/collections/misc/collprofiles.php?collid=66)|
+| 9 | Dominican Republic | **Universidad Autónoma de Santo Domingo** | [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077) -  [Chrysomelidae](https://ecdysis.org/collections/misc/collprofiles.php?collid=86) - [Odonata](https://ecdysis.org/collections/misc/collprofiles.php?collid=19) - [Peces](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090)|
 
 ---
-
-
 
 ### **Service**
 
