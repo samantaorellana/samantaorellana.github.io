@@ -39,7 +39,6 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 <img width="6654" height="1474" alt="LoansAnthribidae" src="https://github.com/user-attachments/assets/f6144688-3453-49ec-acf7-62792bc77f3b" />
 
-
 ---
 
 ### **Publicaciones**
@@ -56,7 +55,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ### **Notas en Medios**
 
-- **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
+- **BHL Blogpost**. Por Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
 [<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
 ](https://blog.biodiversitylibrary.org/author/grace-costantino)
@@ -110,7 +109,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 - **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. Agosto 2020.
 
-- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. Marzo 2020.
+- **Importancia de las Colecciones Entomológicas en el Estudio de la Biodiversidad: Experiencias de Investigación en Norte y Centro América**. Universidad de San Carlos de Guatemala. Marzo 2020.
 
 ---
 
