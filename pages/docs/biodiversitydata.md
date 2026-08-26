@@ -18,19 +18,49 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ### **Digitized and Mobilized Collections**
 
-| # | Country | Name |
-|---|---|---|
-| 1 | Costa Rica | [Universidad de Costa Rica, Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) | 
-| 2 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) |
-| 3 | Costa Rica | [Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2)  |
-| 4 |Guatemala | [Universidad del Valle de Guatemala, Colección de Anélidos Clitelados](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110) |
-| 5 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17) |
-| 6 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Artrópodos, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167) |
-| 7 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Aves, Lepidoptera](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9) |
-| 8 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74) |
-| 9 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26) |
-| 10 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) |
-| 10 |Guatemala | [Universidad de San Carlos de Guatemala, Colección de Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1) |
+| **#** | **Country** | **Name** | **Links** |
+|---|---|---|---|
+| 1 | Costa Rica | **Universidad de Costa Rica, Museo de Insectos** | [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=34), GBIF |
+| 2 | Costa Rica | **Universidad de Costa Rica Guanacaste, Colección de Entomología Agrícola** |  [Symbiota](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1), GBIF |
+| 3 | Costa Rica | **Universidad de Costa Rica Guanacaste, Colección de Semillas de Agronomía** | [Symbiota](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2), GBIF |
+| 4 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Anélidos Clitelados** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=110), GBIF |
+| 5 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=9), GBIF |
+| 6 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Cnidarios** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=73), GBIF |
+| 7 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Crustáceos** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=72), GBIF |
+| 8 | Guatemala | **Universidad de San Carlos de Guatemala, Colección Entomológica** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=17), GBIF |
+| 9 | Guatemala | **Universidad de San Carlos de Guatemala, Colección Entomológica, Lepidoptera** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=167), GBIF |
+| 10 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Equinodermos** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=74), GBIF |
+| 11 | Guatemala | **Universidad de San Carlos de Guatemala, Colección Ictiológica** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=10), GBIF |
+| 12 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Mamíferos** | [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=1), GBIF |
+| 13 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=26), GBIF |
+| 14 | Guatemala | **Universidad de San Carlos de Guatemala, Colección Paleontológica** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=50), GBIF |
+| 15 | Guatemala | **Universidad de San Carlos de Guatemala, Colección de Porífera** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=75), GBIF |
+| 16 | Guatemala | **Universidad de San Carlos de Guatemala, CECON, Herbario USCG** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16), GBIF |
+| 17 | Guatemala | **Universidad de San Carlos de Guatemala, CECON, Herbario USCG Briofitos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=128), GBIF |
+| 18 | Guatemala | **Universidad de San Carlos de Guatemala, CECON, Herbario USCG Hongos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=69), GBIF |
+| 19 | Guatemala | **Universidad de San Carlos de Guatemala, CECON, Herbario USCG Líquenes** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=91), GBIF |
+| 20 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49), GBIF |
+| 21 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Insectos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43), GBIF |
+| 22 | Guatemala | **Universidad de San Carlos de Guatemala, Zacapa, Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=143), GBIF |
+| 23 | Guatemala | **Universidad del Valle de Guatemala, Colección de Artrópodos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16), GBIF |
+| 24 | Guatemala | **Universidad del Valle de Guatemala, Colección de Anfibios** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3), GBIF |
+| 25 | Guatemala | **Universidad del Valle de Guatemala, Colección de Aves** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2), GBIF |
+| 26 | Guatemala | **Universidad del Valle de Guatemala, Colección de Crustáceos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48), GBIF |
+| 27 | Guatemala | **Universidad del Valle de Guatemala, Colección de Equinodermos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44), GBIF |
+| 28 | Guatemala | **Universidad del Valle de Guatemala, Colección de Mamíferos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4), GBIF |
+| 29 | Guatemala | **Universidad del Valle de Guatemala, Colección de Moluscos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27), GBIF |
+| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Peces** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5), GBIF |
+| 30 | Guatemala | **Universidad del Valle de Guatemala, Colección de Reptiles** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6), GBIF |
+| 31 | Guatemala | **Universidad del Valle de Guatemala, Colección de Tejidos** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81), GBIF |
+| 32 | Guatemala | **Universidad del Valle de Guatemala, Herbario UVAL** |  [Symbiota](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19), GBIF |
+| 33 | Nicaragua | **Colección Vertebrada de Nicaragua, Observaciones de Campo** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127), GBIF |
+| 34 | Nicaragua | **Colección Vertebrada de Nicaragua, Registros Fotográficos** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
+| 35 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Arácnidos** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=67), GBIF |
+| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126), GBIF |
+| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección Herpetológica** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078), GBIF |
+| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Ortópteros** |  [Symbiota](https://ecdysis.org/collections/misc/collprofiles.php?collid=66), GBIF |
+| 36 | República Dominicana | **Museo Nacional de Historia Natural, Colección de Aves** |  [Symbiota](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077), GBIF |
+
 
 
 
