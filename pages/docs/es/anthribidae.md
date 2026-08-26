@@ -8,6 +8,7 @@ permalink: /docs/es/anthribidae
 
 ---
 [English](https://samantaorellana.github.io/docs/anthribidae)
+
 ---
 
 ## **Diversidad y Sistemática de Anthribidae Neotropical**
