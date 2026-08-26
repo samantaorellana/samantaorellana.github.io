@@ -10,15 +10,15 @@ permalink: /docs/es/datosbiodiversidad
 
 ## **Digitalización de Colecciones y Datos de Biodiversidad**
 
-I have volunteered and worked in natural history collections for over 15 years in Guatemala, Panama, and the United States. As a research assistant at the ASU [Biodiversity Knowledge Integration Center](https://biokic.asu.edu/), I had the opportunity to join digitization efforts using [Symbiota](https://symbiota.org) portals, which led to the development of a new platform to digitize [Guatemalan collections](https://biodiversidad.gt). I officially joined the [Symbiota Support Hub](https://symbiota.org/about-us/) in 2021, assisting Latin American collections in their digitization projects. I am also part of the GBIF Network, serving as delegate for the Symbiota Node and a volunteer mentor for biodiversity data mobilization projects. Direct collaborations in Latin America have resulted in more than 100 collections live managed in Symbiota portals, and over [70,000 specimen records](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA) mobilized to GBIF by institutions in Guatemala, Nicaragua, Costa Rica, and the Dominican Republic. 
+He trabajado y colaborado como voluntaria en colecciones de historia natural por más de 15 años en Guatemala, Panamá y Estados Unidos. Como asistente de investigación en el [Centro para la Integración del Conocimiento de Biodiversidad](https://biokic.asu.edu/) de ASU, tuve la oportunidad de unirme a esfuerzos de digitalización usando portales [Symbiota](https://symbiota.org), lo que llevó al desarrollo de una nueva plataforma para digitalizar colecciones en [Guatemala](https://biodiversidad.gt). Me uní oficialmente al equipo [Symbiota](https://symbiota.org/about-us/) en 2021, asistiendo colecciones Latinoamericanas en sus proyectos de digitalización. También formo parte de la red de GBIF, colaborando como [delegada](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) del nodo Symbiota y [mentora voluntaria](https://www.gbif.org/mentors) para proyectos de movilización de datos de biodiversidad. Colaboraciones directas en Latinoamérica han resultado en más de 100 colecciones manejadas en portales Symbiota y más de [70,000 registros de especímenes](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA) movilizados a GBIF por instituciones en Guatemala, Nicaragua, Costa Rica, and República Dominicana. 
 
 <img width="8236" height="2593" alt="SOhomepage3" src="https://github.com/user-attachments/assets/f41c3760-d42b-4f7d-bcda-71531b5ee81a" />
 
 ---
 
-### **Digitized and Mobilized Collections** (Partial list)
+### **Colecciones Digitalizadas y Movilizadas** (Lista Parcial)
 
-| **Country** | **Institutions**|**Collections** |
+| **País** | **Instituciones**|**Colecciones** |
 |---|---|---|
 | Costa Rica | **Universidad de Costa Rica** | [Museo de Insectos](https://ecdysis.org/collections/misc/collprofiles.php?collid=34) |
 | Costa Rica | **Universidad de Costa Rica Sede Guanacaste** | [Entomología](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=1) - [Semillas](https://centroamerica.symbiota.org/portal/collections/misc/collprofiles.php?collid=1&emode=2) |
@@ -27,16 +27,16 @@ I have volunteered and worked in natural history collections for over 15 years i
 | Guatemala | **Universidad de San Carlos de Guatemala, Centro Universitario de Zacapa** | [Aves](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=49) - [Insectos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=43) - [Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=143) |
 | Guatemala | **Universidad del Valle de Guatemala** |  [Artrópodos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=16) - [Anfibios](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=3) - [Aves](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=2) - [Bromelias](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=104) - [Crustáceos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=48) - [Equinodermos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=44) -  [Mamíferos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=4) - [Moluscos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=27) - [Peces](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=5) - [Reptiles](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=6) - [Orquídeas](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=22) - [Tejidos](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=81) - [Herbario UVAL](https://biodiversidad.gt/portal/collections/misc/collprofiles.php?collid=19)|
 | Nicaragua | **Colección Vertebrada de Nicaragua** | [Observaciones de Campo](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1127) - [Registros Fotográficos](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126) |
-| Dominican Republic | **Museo Nacional de Historia Natural** | [Arácnidos](https://ecdysis.org/collections/misc/collprofiles.php?collid=67) - [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126) - [Herpetología](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078) - [Murciélagos](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1076) - [Ortópteros](https://ecdysis.org/collections/misc/collprofiles.php?collid=66)|
-| Dominican Republic | **Universidad Autónoma de Santo Domingo** | [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077) -  [Chrysomelidae](https://ecdysis.org/collections/misc/collprofiles.php?collid=86) - [Odonata](https://ecdysis.org/collections/misc/collprofiles.php?collid=19) - [Peces](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090)|
+| República Dominicana | **Museo Nacional de Historia Natural** | [Arácnidos](https://ecdysis.org/collections/misc/collprofiles.php?collid=67) - [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1126) - [Herpetología](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1078) - [Murciélagos](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1076) - [Ortópteros](https://ecdysis.org/collections/misc/collprofiles.php?collid=66)|
+|  República Dominicana | **Universidad Autónoma de Santo Domingo** | [Aves](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1077) -  [Chrysomelidae](https://ecdysis.org/collections/misc/collprofiles.php?collid=86) - [Odonata](https://ecdysis.org/collections/misc/collprofiles.php?collid=19) - [Peces](https://cvcoll.org/portal/collections/misc/collprofiles.php?collid=1090)|
 
 ---
 
-### **Service**
+### **Servicio**
 
--  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
+-  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinatora para Communidades Latinoamericanas. (2021-present)
   
--  [**Global Biodiversity Information Facility**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
+-  [**Instalación Global de Información de Biodiversidad**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
   
 -  [**Guatemala Biodiversity Portal**](https://biodiversidad.gt). Portal Admin. (2020-present)
   
@@ -49,17 +49,17 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Mentorship**
+### **Mentorías**
 
-- **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator.
+- **Proyecto BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentora y coordinadora del proyecto.
 
-- [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. Mentor.
+- [**Proyecto BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University y Symbiota, en Colaboración con el Instituto de Investigaciones Zoológicas y Botánicas de la Universidad Autónoma de Santo Domingo, República Dominicana. Mentora.
 
 <img width="800" height="450" alt="Multimedia" src="https://github.com/user-attachments/assets/068754b4-d358-451d-8abe-2c3f175aeb03" />
 
 ---
 
-### **Publications**
+### **Publicaciones**
 
 - Castillo-Cabrera FJ, Roldán RA, Barrios M, Burgos-Barrios CL, Grajeda AL, García MJ, Cruz H, Morales-Mérida JR, Tenez D, Vásquez M, Agreda EO, Velásquez I, Eufragio A, Barahona-Fong R, Yurrita CL, **Orellana KS**. (2025). Contribution to the knowledge of urban biodiversity in Central America: A checklist to the species of Guatemala City. Neotropical Biology and Conservation 20(1): 59-66. [https://doi.org/10.3897/neotropical.20.e135435](https://doi.org/10.3897/neotropical.20.e135435)
    
@@ -67,7 +67,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Published Abstracts** (* Presenting author)
+### **Resúmenes Publicados** (* Presenting author)
 
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
@@ -87,7 +87,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Conference Presentations** (* Presenting author)
+### **Presentaciones en Conferencias** (* Presentadora)
 
 <img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
 
@@ -119,7 +119,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-## **Poster Presentations**
+## **Presentaciones de Poster**
 
 - Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. (2023). Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
 
@@ -127,13 +127,13 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Scientific Outreach**
+### **Divulgación Científica**
 
 ![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
 ---
 
-## **Organized Workshops**
+## **Talleres Organizados**
 
 
 - **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
@@ -157,28 +157,28 @@ I have volunteered and worked in natural history collections for over 15 years i
 
   ---
 
-### **Invited Presentations**
+### **Presentaciones Invitadas**
 
-- **Symbiota Portals** (virtual, in Spanish). September 2022. Natural History Collections Management Workshop, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia.
+- **Portales Symbiota** (virtual, in Spanish). Septiembre 2022. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia.
   
-- **Digitizing Natural History Collections in Guatemala** (virtual, in Spanish). September 2022. Connecting Collections Workshop Series, Society for the Preservation of Natural History Collections and the Global Biodiversity Information Facility.
+- **Digitalizando Colecciones Biológicas en Guatemala** (virtual). Septiembre 2022. Serie de Talleres Conectando Colecciones, Sociedad para la Preservación de Colecciones de Historia Natural y la Instalación Global de Información de Biodiversidad.
   
-- **Publication of Biodiversity data to GBIF from the Guatemala Biodiversity Portal** (virtual, in Spanish). May 2022. Colegio de Farmacéuticos y Químicos de Guatemala.
+- **Publicación de datos de biodiversidad en GBIF desde el Portal de Biodiversidad de Guatemala** (virtual). Mayo 2022. Colegio de Farmacéuticos y Químicos de Guatemala.
   
-- **Introduction to the Guatemala Biodiversity Portal** (virtual, in Spanish). August 2021. Natural History Collections Digitization Workshop, Universidad del Valle de Guatemala.
+- **Introducción al Portal de Biodiversidad de Guatemala** (virtual). Agosto 2021. Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala.
   
-- **Symbiota: A platform to mobilize, integrate and use natural history collections data** (virtual, in Spanish). April 2021. Webinars Series, Sistema de Información sobre Biodiversidad de Colombia.
+- **Symbiota: Una plataforma para movilizar, integrar y usar datos de colecciones biológicas** (virtual, in Spanish). Abril 2021. Serie de Webinars, Sistema de Información sobre Biodiversidad de Colombia.
   
-- **Guatemala Biodiversity Portal:** Digitizing the biological collections of the country (virtual, in Spanish). March 2021. Conference Series Women in STEM: Science, Technology, Engineering, and Mathematics, Women Who Code, Guatemala.
+- **Portal de Biodiversidad de Guatemala: Digitalizando colecciones biológicas en el país** (virtual). Marzo 2021. Serie de Conferencia Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala.
   
-- **Digitization of Biological Collections using the Guatemala Biodiversity Portal** (virtual, in Spanish). February 2021. Undergraduate Collections Management Course, Universidad de San Carlos de Guatemala.
+- **Digitalización de Colecciones Biológicas usando el Portal de Biodiversidad de Guatemala** (virtual). Febrero 2021. Curso de Manejo de Colecciones, Universidad de San Carlos de Guatemala.
 
 ---
 
-### **Online Resources**
+### **Recursos en Línea**
 
-- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present).
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-presente).
   
-- [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
+- [**Portal de Biodiversidad de Guatemala.**](https://biodiversidad.gt/) Portal Symbiota para el manejo de colecciones biológicas en Guatemala (2020-presente).
 
 ---
