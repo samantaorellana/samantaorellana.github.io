@@ -106,6 +106,7 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 <img width="270" height="337.5" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
 
+- **Anthribidae of North America**. [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA, September 2025.
 
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
 
