@@ -61,7 +61,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 - [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. Mentor.
 
-<img width="800" height="450" alt="Multimedia" src="https://github.com/user-attachments/assets/068754b4-d358-451d-8abe-2c3f175aeb03" />
+| <img width="800" height="450" alt="Multimedia" src="https://github.com/user-attachments/assets/068754b4-d358-451d-8abe-2c3f175aeb03" /> |
 |---|
 | [GBIF Annual Governing Board Meeting](https://gb32.gbif.org/) and [2025 Global Nodes Training](https://globalnodes.gbif.org/en/2025gnt/) in Bogota, Colombia. |
 
