@@ -8,6 +8,10 @@ permalink: /docs/es/datosbiodiversidad
 
 ---
 
+[English](https://samantaorellana.github.io/docs/biodiversitydata)
+
+---
+
 ## **Digitalización de Colecciones y Datos de Biodiversidad**
 
 He trabajado y colaborado como voluntaria en colecciones de historia natural por más de 15 años en Guatemala, Panamá y Estados Unidos. Como asistente de investigación en el [Centro para la Integración del Conocimiento de Biodiversidad](https://biokic.asu.edu/) de ASU, tuve la oportunidad de unirme a esfuerzos de digitalización usando portales [Symbiota](https://symbiota.org), lo que llevó al desarrollo de una nueva plataforma para digitalizar colecciones en [Guatemala](https://biodiversidad.gt). Me uní oficialmente al equipo [Symbiota](https://symbiota.org/about-us/) en 2021, asistiendo colecciones Latinoamericanas en sus proyectos de digitalización. También formo parte de la red de GBIF, colaborando como [delegada](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f) del nodo Symbiota y [mentora voluntaria](https://www.gbif.org/mentors) para proyectos de movilización de datos de biodiversidad. Colaboraciones directas en Latinoamérica han resultado en más de 100 colecciones manejadas en portales Symbiota y más de [70,000 registros de especímenes](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA) movilizados a GBIF por instituciones en Guatemala, Nicaragua, Costa Rica, and República Dominicana. 
