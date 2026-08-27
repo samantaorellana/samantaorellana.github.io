@@ -49,7 +49,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 -  [**Collected and Identfied Specimens**](https://bionomia.net/0000-0002-4098-5823). Contributions to natural history collections.
 
 
-| <img width="990" height="654.5" alt="SSHteam" src="https://github.com/user-attachments/assets/bd0c6820-ec66-4a0f-8e4d-91177b59bfcd" /> |
+| <img width="1980" height="1309" alt="SSHteam" src="https://github.com/user-attachments/assets/2af416c3-8f63-46a1-81f6-6d4cd76eebf5" /> |
 |---|
 | The Symbiota Support Hub at the University of Kansas Biodiversity Institute during the 2025 Annual Retreat. |
 
