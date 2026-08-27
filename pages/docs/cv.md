@@ -47,17 +47,6 @@ Spanish, English
 - **Private Environmental Consultant.** Environmental and Biological Studies of Guatemala, National Association of Private Natural Reserves in Guatemala, National Association of Coffee-Farmers, among others. Guatemala City, Guatemala. (2014-2016).
 
 ---
-
-### **Mentorships**
-
-- **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator. (2026-2028)
-
-- **MS. in Museum Studies Capstone Project.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-chair. (2025-2026)
-
-- [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. (2021-2023)
-
----
-
 ### **Service**
 
 -  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinator for Communities in Latin America. (2021-present)
@@ -69,6 +58,16 @@ Spanish, English
 -  [**Weevil Portal**](https://weevil.symbiota.org). Portal Admin. (2025-present)
 
 -  [**Collected and Identfied Specimens**](https://bionomia.net/0000-0002-4098-5823). Contributions to natural history collections.
+
+---
+
+### **Mentorships**
+
+- **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator. (2026-2028)
+
+- **MS. in Museum Studies Capstone Project.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-chair. (2025-2026)
+
+- [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. (2021-2023)
 
 ---
 
@@ -222,6 +221,8 @@ Guatemala, Guatemala City, Guatemala.
 
 #### **Invited Presentations**
 
+- **Anthribidae of North America**. For the [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA September 2025.
+  
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
 
 - **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). School of Agricultural Sciences, Universidad Rafael Landívar. Guest speaker for the undergraduate Botany course. July 2021.
@@ -255,8 +256,9 @@ Guatemala, Guatemala City, Guatemala.
 ---
 
 ### **Complementary Training**
+ 
+-[**Global Nodes Training**](https://globalnodes.gbif.org/en/2025gnt/). Global Biodiversity Information Facility, Bogota, Colombia (2025).
 
-- [**Weevil Course & Roundup.**](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA (2025).
 - [**Entomological Collection Management Workshop.**](https://ecnweb.net/workshop/alumni/) Entomological Collection Network and Arizona State University, Arizona, USA (2022).
   
 - **Tenebrionidae Identification and Classification Virtual Workshop.** Arizona State University, Arizona, USA. (2021)
