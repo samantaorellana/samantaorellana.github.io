@@ -23,7 +23,6 @@ permalink: /docs/cv
 ---
 
 ### **Education**
-- [**Postdoctoral Researcher**](https://biodiversity.ku.edu/people/samanta-orellana), Biodiversity Institute and Natural History Museum, University of Kansas, Lawrence, KS, United States of America (2025-present)
 - **Ph.D. in Evolutionary Biology**, School of Life Sciences, Arizona State University, Tempe, AZ, United States of America (2024).
 - **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
 - **Postgraduate Diploma in Entomology**, Universidad de Panama, Panama City, Panama (2017).
@@ -37,6 +36,8 @@ Spanish, English
 ---
 
 ### **Professional Experience**
+
+- [**Postdoctoral Researcher**](https://biodiversity.ku.edu/people/samanta-orellana), Biodiversity Institute and Natural History Museum, University of Kansas, Lawrence, KS, United States of America (2025-present)
 
 - **Teaching Assistant.** General Biology, School of Life Sciences, Arizona State University. Tempe, Arizona, USA (2021-2024).
   
