@@ -257,9 +257,6 @@ Guatemala, Guatemala City, Guatemala.
   
 - [**Portal de Biodiversidad de Guatemala.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
 
-<img width="6729" height="4579" alt="seisañosportalverde" src="https://github.com/user-attachments/assets/e15a3b3d-1b36-4d9c-8105-6261fb03074c" />
-
-
 ---
 
 ### **Entrenamiento Científico Complementario**
