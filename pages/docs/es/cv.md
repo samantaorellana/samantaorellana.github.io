@@ -6,6 +6,10 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/es/cv
 ---
 
+[English](https://samantaorellana.github.io/docs/cv) 
+
+---
+
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) | 
 
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
@@ -235,7 +239,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ---
 
-#### **Online Resources**
+#### **Recursos Digitales**
 
 - [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae specimens in the O’Brien Collection (2022-present).
   
@@ -251,7 +255,10 @@ Guatemala, Guatemala City, Guatemala.
 
 - [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present).
   
-- [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
+- [**Portal de Biodiversidad de Guatemala.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
+
+<img width="6729" height="4579" alt="seisañosportalverde" src="https://github.com/user-attachments/assets/e15a3b3d-1b36-4d9c-8105-6261fb03074c" />
+
 
 ---
 
