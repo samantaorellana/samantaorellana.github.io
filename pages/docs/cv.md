@@ -28,7 +28,7 @@ permalink: /docs/cv
 ---
 
 ### **Languages**
-Spanish, English
+- Spanish, English
 
 ---
 
