@@ -6,15 +6,9 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/cv
 ---
 
-[<img style="float: left;" width="95" height="35" alt="SOre" src="https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76">](https://samantaorellana.github.io/docs/cv)
-
-
-
 ---
 
-| [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |  [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
-
-| [<img width="95" height="35" alt="orcid" src="https://github.com/user-attachments/assets/b71ae7a7-15b4-4083-99df-9c9574b218a1" />](https://orcid.org/0000-0002-4098-5823) | [<img width="115" height="35" alt="researchgate" src="https://github.com/user-attachments/assets/e099ff40-fa53-4ba4-a75e-01658a9dfb94" />](https://www.researchgate.net/profile/Samanta-Orellana) | [<img width="95" height="35" alt="bionomiaso" src="https://github.com/user-attachments/assets/6feeab7f-b1e2-49bd-bd80-49583bbcfb30" />](https://bionomia.net/0000-0002-4098-5823) |  [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
+| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
 
@@ -285,17 +279,12 @@ Introduction to Chrysomelidae (Coleoptera) Taxonomy (Course). Multidisciplinary 
 - The Coleopterist Society
 - Entomological Society of America
 - Society for the Preservation of Natural History Collections
-
----
-
-[<img style="float: left;" width="95" height="35" alt="SOre" src="https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76">](https://samantaorellana.github.io/docs/cv)
-
 - [Organization for Women in Science for the Developing World](https://owsd.net/person/k-samanta-orellana-arevalo)
 - College of Professional Pharmacists and Chemists of Guatemala
 
 ---
 
-[<img style="float: left;" width="100" height="35" alt="SOre" src="[">](https://samantaorellana.github.io/docs/es/cv)](https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76)
+| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
 
 
 
