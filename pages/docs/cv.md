@@ -6,12 +6,12 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/cv
 ---
 
-| [**Español**](https://samantaorellana.github.io/docs/es/cv) |
-|---|
+[**Español**](https://samantaorellana.github.io/docs/es/cv) 
+
 
 ---
 
-| [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) | 
+| [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |  
 
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
 
@@ -29,11 +29,6 @@ permalink: /docs/cv
 - **M.Sc. in Entomology**, Universidad de Panama, Panama City, Panama (2018).
 - **Postgraduate Diploma in Entomology**, Universidad de Panama, Panama City, Panama (2017).
 - **B.Sc. in Biology**, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala (2014).
-
----
-
-### **Languages**
-- Spanish, English
 
 ---
 
