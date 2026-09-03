@@ -6,9 +6,8 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/es/datosbiodiversidad
 ---
 
----
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/biodiversitydata) |
 
-[English](https://samantaorellana.github.io/docs/biodiversitydata)
 
 ---
 
@@ -190,3 +189,6 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 - [**Portal de Biodiversidad de Guatemala.**](https://biodiversidad.gt/) Portal Symbiota para el manejo de colecciones biológicas en Guatemala (2020-presente).
 
 ---
+
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/biodiversitydata) |
+
