@@ -256,7 +256,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ### **Complementary Training**
  
--[**Global Nodes Training**](https://globalnodes.gbif.org/en/2025gnt/). Global Biodiversity Information Facility, Bogota, Colombia (2025).
+- [**Global Nodes Training**](https://globalnodes.gbif.org/en/2025gnt/). Global Biodiversity Information Facility, Bogota, Colombia (2025).
 
 - [**Entomological Collection Management Workshop.**](https://ecnweb.net/workshop/alumni/) Entomological Collection Network and Arizona State University, Arizona, USA (2022).
   
