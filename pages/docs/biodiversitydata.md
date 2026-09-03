@@ -6,9 +6,7 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/biodiversitydata
 ---
 
----
-
-[Español](https://samantaorellana.github.io/docs/es/datosbiodiversidad)
+| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/datosbiodiversidad) |
 
 ---
 
@@ -191,3 +189,6 @@ I have volunteered and worked in natural history collections for over 15 years i
 - [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
 
 ---
+
+| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/datosbiodiversidad) |
+
