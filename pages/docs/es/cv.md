@@ -7,18 +7,11 @@ permalink: /docs/es/cv
 ---
 
 
-[<img style="float: left;" width="100" height="35" alt="SOre" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78">](https://samantaorellana.github.io/docs/cv)
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/cv) |
 
----
-
-| [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |  [<img width="100" height="35" alt="english" src="https://github.com/user-attachments/assets/ee9cc7fe-360f-4dfa-a29e-0dbfd46c9b83" />](https://samantaorellana.github.io/docs/cv) |
-
-| [<img width="95" height="35" alt="orcid" src="https://github.com/user-attachments/assets/b71ae7a7-15b4-4083-99df-9c9574b218a1" />](https://orcid.org/0000-0002-4098-5823) | [<img width="115" height="35" alt="researchgate" src="https://github.com/user-attachments/assets/e099ff40-fa53-4ba4-a75e-01658a9dfb94" />](https://www.researchgate.net/profile/Samanta-Orellana) | [<img width="95" height="35" alt="bionomiaso" src="https://github.com/user-attachments/assets/6feeab7f-b1e2-49bd-bd80-49583bbcfb30" />](https://bionomia.net/0000-0002-4098-5823) |  [<img width="100" height="35" alt="english" src="https://github.com/user-attachments/assets/ee9cc7fe-360f-4dfa-a29e-0dbfd46c9b83" />](https://samantaorellana.github.io/docs/cv) |
-
-
+| [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
-
 
 
 ---
@@ -263,7 +256,7 @@ Guatemala, Guatemala City, Guatemala.
 
 ### **Entrenamiento Científico Complementario**
  
--[**Global Nodes Training**](https://globalnodes.gbif.org/en/2025gnt/). Global Biodiversity Information Facility, Bogotá, Colombia (2025).
+- [**Global Nodes Training**](https://globalnodes.gbif.org/en/2025gnt/). Global Biodiversity Information Facility, Bogotá, Colombia (2025).
 
 - [**Entomological Collection Management Workshop.**](https://ecnweb.net/workshop/alumni/) Entomological Collection Network and Arizona State University, Arizona, EEUU (2022).
   
@@ -295,4 +288,7 @@ Guatemala, Guatemala City, Guatemala.
 - Colegio Profesional de Químicos y Farmacéuticos de Guatemala (Bióloga Colegiada Activa)
 
 
+---
+
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/cv) |
 
