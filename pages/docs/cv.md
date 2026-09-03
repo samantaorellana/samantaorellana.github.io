@@ -8,7 +8,7 @@ permalink: /docs/cv
 
 ---
 
-| | | | [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
+|            |                                |                               | [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
 
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
