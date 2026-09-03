@@ -6,7 +6,8 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/cv
 ---
 
-[Español](https://samantaorellana.github.io/docs/es/cv)
+| [**Español**](https://samantaorellana.github.io/docs/es/cv) |
+|---|
 
 ---
 
