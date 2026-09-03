@@ -6,8 +6,7 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/es/anthribidae
 ---
 
----
-[English](https://samantaorellana.github.io/docs/anthribidae)
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/anthribidae) |
 
 ---
 
@@ -116,4 +115,5 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ---
 
-(Find more [here](https://samantaorellana.github.io/docs/cv))
+| [<img width="95" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/anthribidae) |
+
