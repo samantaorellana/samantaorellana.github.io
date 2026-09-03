@@ -6,7 +6,10 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/es/cv
 ---
 
-| [**English**](https://samantaorellana.github.io/docs/cv) |
+[**English**](https://samantaorellana.github.io/docs/cv) 
+
+[<img width="100" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/cv)
+
 
 ---
 
@@ -28,11 +31,6 @@ permalink: /docs/es/cv
 - **M.Sc. en Entomología**, Universidad de Panama, Ciudad de Panamá, Panamá (2018).
 - **Especialización en Entomología**, Universidad de Panamá, Ciudad de Panamá (2017).
 - **Lic. en Biología**, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Guatemala (2014).
-
----
-
-### **Idiomas**
-- Español, Inglés
 
 ---
 
