@@ -8,8 +8,6 @@ permalink: /docs/anthribidae
 
 | [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/anthribidae) |
 
----
-
 ## **Diversity and Systematics of Neotropical Anthribidae**
 
 I am interested in the diversity and evolutionary history of Neotropical groups of [Anthribidae](https://anthribidae.github.io) (Coleoptera: Curculionoidea). My research is mainly collections-based and I have published catalogs and keys for the fauna of [Guatemala](https://doi.org/10.5281/zenodo.10424024), [Panama](https://www.researchgate.net/publication/348416935_Catalogue_of_the_Anthribidae_Coleoptera_Curculionoidea_of_Panama_including_new_country_records_and_a_key_to_genera), and [Colombia](https://doi.org/10.21068/2539200X.1149). A recent [collaboration](https://doi.org/10.1111/syen.12674) led to updates on the higher classification of the family, based on molecular data. Currently, I am focused on inventorying the Anthribidae fauna in Central America, while mobilizing data and images from available specimens. 
