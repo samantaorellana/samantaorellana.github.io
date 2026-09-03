@@ -6,10 +6,8 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/es/cv
 ---
 
-[**English**](https://samantaorellana.github.io/docs/cv) 
 
-[<img width="100" height="35" alt="english" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78" />](https://samantaorellana.github.io/docs/cv)
-
+[<img style="float: left;" width="100" height="35" alt="SOre" src="https://github.com/user-attachments/assets/a2253fd3-49af-4e8e-9f58-0e8a724d6a78">](https://samantaorellana.github.io/docs/cv)
 
 ---
 
