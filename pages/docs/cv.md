@@ -6,7 +6,7 @@ background: /assets/theme/images/SOheaderblue.jpg
 permalink: /docs/cv
 ---
 
-[<img style="float: left;" width="100" height="35" alt="SOre" src="[">](https://samantaorellana.github.io/docs/es/cv)](https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76)
+[<img style="float: left;" width="95" height="35" alt="SOre" src="https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76">](https://samantaorellana.github.io/docs/cv)
 
 ---
 
@@ -281,6 +281,11 @@ Introduction to Chrysomelidae (Coleoptera) Taxonomy (Course). Multidisciplinary 
 - The Coleopterist Society
 - Entomological Society of America
 - Society for the Preservation of Natural History Collections
+
+---
+
+[<img style="float: left;" width="95" height="35" alt="SOre" src="https://github.com/user-attachments/assets/23b2ca1e-eb4d-4613-990b-fa9a4e055f76">](https://samantaorellana.github.io/docs/cv)
+
 - [Organization for Women in Science for the Developing World](https://owsd.net/person/k-samanta-orellana-arevalo)
 - College of Professional Pharmacists and Chemists of Guatemala
 
