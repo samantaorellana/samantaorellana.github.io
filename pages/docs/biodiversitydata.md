@@ -8,8 +8,6 @@ permalink: /docs/biodiversitydata
 
 | [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/datosbiodiversidad) |
 
----
-
 ## **Collections Digitization and Biodiversity Data**
 
 I have volunteered and worked in natural history collections for over 15 years in Guatemala, Panama, and the United States. As a research assistant at [Arizona State University](https://biokic.asu.edu/), I had the opportunity to join digitization efforts using [Symbiota](https://symbiota.org) portals, which led to the development of a new platform to digitize [Guatemalan collections](https://biodiversidad.gt). I officially joined the [Symbiota Support Hub](https://symbiota.org/about-us/) in 2021, assisting Latin American collections in their digitization projects. I am also part of the GBIF Network, serving as delegate for the Symbiota Node and a volunteer mentor for biodiversity data mobilization projects. Direct collaborations in Latin America have resulted in more than 100 collections live managed in Symbiota portals, and over [70,000 specimen records](https://www.gbif.org/occurrence/search?occurrenceStatus=PRESENT&hostingOrganizationKey=96710dc8-fecb-440d-ae3e-c34ae8a9616f&publishedByGbifRegion=LATIN_AMERICA) mobilized to GBIF by institutions in Guatemala, Nicaragua, Costa Rica, and the Dominican Republic. 
