@@ -18,7 +18,8 @@ permalink: /
 [![SOhomepage3](https://github.com/user-attachments/assets/3547f79a-e7d2-4620-abc8-b38e6d9e269c)](https://samantaorellana.github.io/docs/biodiversitydata)
 
 ---
-[Español](https://samantaorellana.github.io/docs/inicio) 
+
+| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/inicio) |
 
 ---
 
