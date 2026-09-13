@@ -54,15 +54,6 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
   
 ---
 
-### **Media Features**
-
-- **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
-  
-[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
-](https://blog.biodiversitylibrary.org/author/grace-costantino)
-
----
-
 ### **Online Resources**
 
 - [**Anthribidae Website.**](https://anthribidae.github.io) Website dedicated to share information about the Anthribidae groups (2022-present).
@@ -101,8 +92,6 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 ## **Invited Presentations**
 
-<img width="270" height="337.5" alt="AnthribidaeCRCharla" src="https://github.com/user-attachments/assets/02cbd491-1631-42b5-b54a-47aa6dea8dbe" />
-
 - **Anthribidae of North America**. [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA, September 2025.
 
 - **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
@@ -116,5 +105,17 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 ---
 
 | [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/anthribidae) |
+
+---
+
+### **Media Features**
+
+- **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
+  
+[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />
+](https://blog.biodiversitylibrary.org/author/grace-costantino)
+
+---
+
 
 
