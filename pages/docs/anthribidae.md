@@ -108,10 +108,10 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 - **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
-[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />](https://blog.biodiversitylibrary.org/author/grace-costantino)
+| [<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />](https://blog.biodiversitylibrary.org/author/grace-costantino) |
 
 ---
 
-| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/anthribidae) |
+[<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/anthribidae)
 
 ---
