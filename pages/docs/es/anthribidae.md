@@ -105,6 +105,8 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ### **Notas en Medios**
 
+- [**KU Office of Research Remark**](https://research.ku.edu/news/article/ku-postdoc-preserves-history-of-the-natural-world-before-it-disappears). Por Vince Munoz. KU postdoc preserves history of the natural world before it disappears.
+  
 - **BHL Blogpost**. Por Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
   
 [<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />](https://blog.biodiversitylibrary.org/author/grace-costantino)
