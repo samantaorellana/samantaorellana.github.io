@@ -106,9 +106,11 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 ### **Media Features**
 
-- **BHL Blogpost**. By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. [Link](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
+- [**KU Office of Research Remark**](https://research.ku.edu/news/article/ku-postdoc-preserves-history-of-the-natural-world-before-it-disappears). By Vince Munoz. KU postdoc preserves history of the natural world before it disappears. 
+
+- [**BHL Blogpost**](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl). By Grace Constantino. Hidden Biodiversity: Exploring Neotropical Fungus Weevils With the Help of BHL. 
   
-[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />](https://blog.biodiversitylibrary.org/author/grace-costantino)
+[<img width="624" height="593" alt="image" src="https://github.com/user-attachments/assets/a297c7d5-163d-4757-9586-c7439a947ee9" />](https://blog.biodiversitylibrary.org/2021/04/neotropical-fungus-weevils-bhl)
 
 ---
 
