@@ -37,15 +37,17 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 
 ### **Servicio**
 
--  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinatora para Communidades Latinoamericanas. (2021-present)
+-  [**Symbiota Support Hub**](https://symbiota.org/about-us/). Coordinadora para Comunidades Latinoamericanas. (2021-presente)
   
--  [**Instalación Global de Información de Biodiversidad**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Symbiota Node delegate and [mentor](https://www.gbif.org/mentors). (2022-present)
+-  [**Instalación Global de Información de Biodiversidad**](https://www.gbif.org/publisher/96710dc8-fecb-440d-ae3e-c34ae8a9616f). Delegada del Nodo Symbiota y [mentora](https://www.gbif.org/mentors). (2022-presente)
   
--  [**Guatemala Biodiversity Portal**](https://biodiversidad.gt). Portal Admin. (2020-present)
-  
--  [**Weevil Portal**](https://weevil.symbiota.org). Portal Admin. (2025-present)
+- [**Portal Ecdysis**.](https://ecdysis.org/misc/contacts.php) Comité Directivo.
 
--  [**Collected and Identfied Specimens**](https://bionomia.net/0000-0002-4098-5823). Contributions to natural history collections.
+-  [**Portal de Biodiversidad de Guatemala**](https://biodiversidad.gt). Co-administradora del Portal. (2020-presente)
+
+-  [**Portal de Colecciones Centroamericanas de Biodiversidad.**](https://centroamerica.symbiota.org) Administradora del portal. (2026-presente)
+  
+-  [**Especímenes Colectados e Identificados**](https://bionomia.net/0000-0002-4098-5823). Contribuciones a colecciones de historia natural. 
 
 
 | <img width="640" height="480" alt="SSHgroup" src="https://github.com/user-attachments/assets/da4f9b44-129a-4a9a-92a8-8b5a00c9ac88" /> |
@@ -56,7 +58,7 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 
 ### **Mentorías**
 
-- **Proyecto BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentora y coordinadora del proyecto.
+- [**Proyecto BID-REG2025-081:**](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Fondo de Información de Biodiversidad para el Desarrollo, Unión Europea y la Instalación Global de Información de Biodiversidad. Digitalización y movilización de 25 colecciones de biodiversidad de Centroamérica. Universidad de Kansas y Nodo Symbiota en colaboración con Universidad de San Carlos de Guatemala, Universidad de El Salvador, Universidad de Costa Rica, entre otras instituciones. Mentora y coordinadora del proyecto.
 
 - [**Proyecto BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University y Symbiota, en Colaboración con el Instituto de Investigaciones Zoológicas y Botánicas de la Universidad Autónoma de Santo Domingo, República Dominicana. Mentora.
 
@@ -74,7 +76,7 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 
 ---
 
-### **Resúmenes Publicados** (* Presenting author)
+### **Resúmenes Publicados** (* Presentadora)
 
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
