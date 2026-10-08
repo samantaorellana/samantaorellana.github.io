@@ -14,7 +14,7 @@ permalink: /
 
 ---
 
-| ** ★ Check our new BID project** [_"Increasing open biodiversity information in Central America through digitized collections"_](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections), funded by GBIF and the European Union. |
+| **★ Check our new BID project** [_"Increasing open biodiversity information in Central America through digitized collections"_](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections), funded by GBIF and the European Union. |
 
 ---
 
