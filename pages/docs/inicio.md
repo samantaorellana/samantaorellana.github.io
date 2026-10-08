@@ -14,6 +14,10 @@ permalink: /docs/inicio
 
 ---
 
+| **★ Conozcan nuestro nuevo proyecto BID** [_"Incrementando la información abierta de biodiversidad en Centroamérica por medio de Colecciones Digitalizadas"_](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections), financiado por GBIF y la Union Europea. |
+
+---
+
 [![SOhomepage2](https://github.com/user-attachments/assets/a1e4e06a-b9bc-465f-8af0-ea13a353ba3e)](https://samantaorellana.github.io/docs/es/anthribidae)
 [![SOhomepage3](https://github.com/user-attachments/assets/3547f79a-e7d2-4620-abc8-b38e6d9e269c)](https://samantaorellana.github.io/docs/es/datosbiodiversidad)
 
