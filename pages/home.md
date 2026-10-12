@@ -21,7 +21,8 @@ permalink: /
 
 ---
 
-| [<img width="95" height="35" alt="españolpurple" src="https://github.com/user-attachments/assets/f87cdfd3-88de-4336-8b2e-9856525c90da" />](https://samantaorellana.github.io/docs/inicio) |
+| [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/inicio) |
+
 
 
 ---
