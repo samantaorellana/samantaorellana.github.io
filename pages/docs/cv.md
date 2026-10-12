@@ -6,7 +6,7 @@ background: /assets/theme/images/SOheaderpurple.jpg
 permalink: /docs/cv
 ---
 
-| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
+| [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/cv) |
 
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
@@ -284,7 +284,7 @@ Introduction to Chrysomelidae (Coleoptera) Taxonomy (Course). Multidisciplinary 
 
 ---
 
-| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/cv) |
+| [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/cv) |
 
 
 
