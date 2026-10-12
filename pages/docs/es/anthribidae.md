@@ -2,7 +2,7 @@
 layout: home
 title: Samanta Orellana, PhD
 description: Antríbidos, colecciones & datos de biodiversidad
-background: /assets/theme/images/SOheaderblue.jpg
+background: /assets/theme/images/SOheaderpurple.jpg
 permalink: /docs/es/anthribidae
 ---
 
