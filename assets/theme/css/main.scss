@@ -10,6 +10,7 @@
 $default_link_color: #424696;
 $default_banner_color: #424696;
 $default_footer_color: #424696;
+$default_navbar_color: #424696;
 
 // Get custom colors defined in _config.yml
 // Custom colors are optional, meaning they can be undefined in _config.yml
@@ -18,17 +19,21 @@ $default_footer_color: #424696;
 $custom_link_color: $default_link_color {{ site.colors.links }};
 $custom_banner_color: $default_banner_color {{ site.colors.banner }};
 $custom_footer_color: $default_footer_color {{ site.colors.footer }};
+$custom_navbar_color: $default_navbar_color {{ site.colors.footer }};
 
 // We then select the last element of the list:
 // custom color if defined, default color if undefined
 $custom_link_color: nth($custom_link_color, -1);
 $custom_banner_color: nth($custom_banner_color, -1);
 $custom_footer_color: nth($custom_footer_color, -1);
+$custom_navbar_color: nth($custom_navbar_color, -1);
+
 
 // Set to default color if custom color is an invalid color value
 @if type-of($custom_link_color) != color { $custom_link_color: $default_link_color; }
 @if type-of($custom_banner_color) != color { $custom_banner_color: $default_banner_color; }
 @if type-of($custom_footer_color) != color { $custom_footer_color: $default_footer_color; }
+@if type-of($custom_navbar_color) != color { $custom_footer_color: $default_navbar_color; }
 
 // Set font
 $custom_font: {% if site.font_serif != false %}Lora{% else %}system-ui{% endif %};
