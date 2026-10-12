@@ -6,7 +6,8 @@ background: /assets/theme/images/SOheaderpurple.jpg
 permalink: /docs/anthribidae
 ---
 
-| [<img width="95" height="35" alt="español" src="https://github.com/user-attachments/assets/d779390b-585a-4456-b017-f6fcb9c7f7d8" />](https://samantaorellana.github.io/docs/es/anthribidae) |
+| [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/anthribidae) |
+
 
 ## **Diversity and Systematics of Neotropical Anthribidae**
 
@@ -114,5 +115,4 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 ---
 
-| [<img width="95" height="35" alt="españolpurple" src="https://github.com/user-attachments/assets/f87cdfd3-88de-4336-8b2e-9856525c90da" />](https://samantaorellana.github.io/docs/es/anthribidae) |
-
+| [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/anthribidae) |
