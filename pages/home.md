@@ -4,11 +4,6 @@ title: Samanta Orellana, PhD
 description:  Fungus weevils, collections & biodiversity data
 background: /assets/theme/images/SOheaderblue.jpg
 permalink: /
-featured: # description, href, img
-  title: News!
-  description:     
-    * **New**: Symbiota portal dedicated to Central American collections! [See more](https://centroamerica.symbiota.org).
-    * **New**: Regional BID-GBIF project to mobilize Central American collections! [See more](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections).
 ---
 
 <img style="float: left;" width="300" height="400" alt="SOre" src="https://github.com/samantaorellana/samantaorellana.github.io/blob/main/assets/theme/images/HeaderPhotowhite2.png?raw=true">
