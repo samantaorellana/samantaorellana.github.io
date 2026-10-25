@@ -8,9 +8,7 @@ permalink: /docs/about
 
 | [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/cv) |
 
----
-
-## About Me
+## **About Me**
 
 ---
 
