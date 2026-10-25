@@ -72,7 +72,7 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ---
 
-### **Published Abstracts** (* Presenting author)
+### **Presentations** (* Presenting author)
 
 <img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
 
@@ -87,6 +87,24 @@ I have volunteered and worked in natural history collections for over 15 years i
 - **Orellana KS***, Gilbert E, Walker LJ, Pearson K, Prado LR, Post G, Yost J, Franz N. (2022). Taxonomic Curation in a Multi-taxa Symbiota Portal. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
 Full list of presentations [here](https://samantaorellana.github.io/docs/about).
+
+---
+
+### **Organized Workshops**
+
+![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
+
+- **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
+  
+- **Advanced Tools for the Management of Scientific Collections in the Guatemala Biodiversity Portal** (in Spanish). Organizer and instructor. University of Kansas Biodiversity Institute and Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
+  
+- **Introduction to the Guatemala Biodiversity Portal**. Co-organizer and instructor. Museo de Historia Natural, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
+
+- **Interactive Tools for the Study of Guatemalan Biodiversity** (virtual, in Spanish). Organizer and instructor. Symbiota Support Hub, Arizona State University. September 2023.
+  
+- **A Guided Tour of the Guatemala Biodiversity Portal** (virtual, in Spanish). Organizer and instructor. Symbiota Support Hub, Arizona State University. March 2023.
+  
+Full list of workshops [here](https://samantaorellana.github.io/docs/about).
 
 ---
 
