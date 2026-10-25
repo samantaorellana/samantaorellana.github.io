@@ -9,7 +9,7 @@ permalink: /docs/es/acerca
 
 | [<img width="100" height="35" alt="englishbutton" src="https://github.com/user-attachments/assets/56570240-54b0-4355-9891-7080f8d7c827" />](https://samantaorellana.github.io/docs/about) |
 
-## Acerca de mí
+## **Acerca de mí**
 
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
