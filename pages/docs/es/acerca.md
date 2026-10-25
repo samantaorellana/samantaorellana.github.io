@@ -221,19 +221,19 @@ Guatemala, Guatemala City, Guatemala.
   
 ---
 
-#### **Invited Presentations**
+#### **Presentaciones Invitadas**
 
-- **Anthribidae of North America**. For the [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA September 2025.
+- **Anthribidae de North America**. Para el [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA Septiembre 2025.
   
-- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
+- **Systemática de Anthribidae Neotropicales: Contribuciones desde las Colecciones Entomológicas**. Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. Julio 2025.
 
-- **Importance of Natural History Collections for the Study of Biodiversity** (virtual, in Spanish). School of Agricultural Sciences, Universidad Rafael Landívar. Guest speaker for the undergraduate Botany course. July 2021.
+- **Importancia de las Colecciones de Historia Natural para el Estudio de la Biodiversidad** (virtual). Escuela de Agronomía, Universidad Rafael Landívar. Conferencista invitada para el curso de Botánica. Julio 2021.
 
-- **Introduction to Coleoptera** (virtual, in Spanish). Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste. November 2020.
+- **Introducción a Coleoptera** (virtual). Curso de Entomología, Universidad de Costa Rica, Sede Guanacaste. Noviembre 2020.
 
-- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. August 2020.
+- **Taxonomía de Anthribidae** (virtual). Curso de Taxonomía, Universidad de San Carlos de Guatemala. Agosto 2020.
 
-- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. March 2020.
+- **Relevancia de las Colecciones Entomológicas en el Estudio de la Biodiversidad: Experiencias de Investigación en Norte y Centro América**. Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Guatemala. Marzo 2020.
 
 ---
 
@@ -279,7 +279,7 @@ Guatemala, Guatemala City, Guatemala.
 
 - **Análisis Espacial de Biodiversidad con Sistemas de Información Geográfica** (Course). Unidad de Investigación Herbario BIGU, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Guatemala. (2010)
   
-- **Introducción a la Taxonomía de Chrysomelidae (Curso). Unidad Académica Multidisciplinaria de Agricultura y Ciencias, Universidad Autónoma de Tamaulipas, Tamaulipas, México. (2010)
+- **Introducción a la Taxonomía de Chrysomelidae** (Curso). Unidad Académica Multidisciplinaria de Agricultura y Ciencias, Universidad Autónoma de Tamaulipas, Tamaulipas, México. (2010)
 
 ---
 
