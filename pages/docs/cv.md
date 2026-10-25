@@ -3,10 +3,16 @@ layout: home
 title: Samanta Orellana, PhD
 description: Fungus weevils, collections & biodiversity data
 background: /assets/theme/images/SOheaderpurple.jpg
-permalink: /docs/cv
+permalink: /docs/about
 ---
 
 | [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/cv) |
+
+---
+
+## About Me
+
+---
 
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
