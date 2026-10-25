@@ -110,10 +110,12 @@ Full list of workshops [here](https://samantaorellana.github.io/docs/about).
 
 ### **Online Resources**
 
-- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present).
-  
+- [**Central American Collections Portal.**](https://centroamerica.symbiota.org) Symbiota portal for the management of natural history collections in Central America (2026-present).
+
 - [**Guatemala Biodiversity Portal.**](https://biodiversidad.gt/) Symbiota portal for the management of natural history collections in Guatemala (2020-present).
 
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-present).
+  
 ---
 
 | [<img width="95" height="35" alt="españolboton" src="https://github.com/user-attachments/assets/c9c603fc-41e4-4377-a7e8-dc6f00650fc2" />](https://samantaorellana.github.io/docs/es/datosbiodiversidad) |
