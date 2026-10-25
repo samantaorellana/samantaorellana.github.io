@@ -74,6 +74,8 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ### **Published Abstracts** (* Presenting author)
 
+<img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
+
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
 - **Orellana KS***, Gilbert E, Pearson K, Post G, Fisher M, Franz N (2025) Use of Symbiota Portals to Integrate Biodiversity Information in Latin America. Biodiversity Information Science and Standards 9: e177303. [https://doi.org/10.3897/biss.9.177303](https://doi.org/10.3897/biss.9.177303)
@@ -89,6 +91,8 @@ I have volunteered and worked in natural history collections for over 15 years i
 - Pearson K, Gilbert E, **Orellana KS**, Post G, Walker L, Yost J, Franz N. (2022). Growth and Evolution of the Symbiota Portal Network. Biodiversity Information Science and Standards, 6,e112028. [https://doi.org/10.3897/biss.7.112028](https://doi.org/10.3897/biss.7.112028).
 
 - Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. (2022). Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
+
+Full list of presentations [here](https://samantaorellana.github.io/docs/about).
 
 ---
 
