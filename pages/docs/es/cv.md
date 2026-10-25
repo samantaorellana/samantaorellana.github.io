@@ -3,16 +3,17 @@ layout: home
 title: Samanta Orellana, PhD
 description: Antríbidos, colecciones & datos de biodiversidad
 background: /assets/theme/images/SOheaderblue.jpg
-permalink: /docs/es/cv
+permalink: /docs/es/acerca
 ---
 
 
 | [<img width="100" height="35" alt="englishbutton" src="https://github.com/user-attachments/assets/56570240-54b0-4355-9891-7080f8d7c827" />](https://samantaorellana.github.io/docs/cv) |
 
+## Acerca de mí
+
 | [**ORCID**](https://orcid.org/0000-0002-4098-5823) | [**ResearchGate**](https://www.researchgate.net/profile/Samanta-Orellana) | [**Bionomia**](https://bionomia.net/0000-0002-4098-5823) |
 
 <img width="9230" height="3104" alt="SOhome" src="https://github.com/user-attachments/assets/e0963493-0ce5-4e4f-a660-88fcd4c62c96" />
-
 
 ---
 
