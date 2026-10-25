@@ -71,40 +71,6 @@ I am interested in the diversity and evolutionary history of Neotropical groups 
 
 ---
 
-### **Conference Presentations** (* Presenting author)
-
-- **Orellana KS***. (2024). Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
-
-- **Orellana KS***. (2024). Generating an Illustrated Catalog of Anthribidae (Coleoptera: Curculionoidea) with TaxonWorks and TaxonPages. TaxonWorks Together 2024 (virtual).
-
-- **Orellana KS***, Mermudes JRM, Franz N. (2023). Advances in the Study of Central American Anthribidae. Online Weevil Workers Meeting, Texas Tech University, United States Department of Agriculture, Canadian Museum of Nature (virtual).
-
-- **Orellana KS***. (2022). The O’Brien Collection, a valuable resource for the study of Anthribidae. Online Weevil Workers Meeting, Texas Tech University, United States Department of Agriculture, Canadian Museum of Nature (virtual).
-
-- **Orellana KS***. (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting (virtual).
-
-- **Orellana KS***. (2020). Collection-based research: Discovering the Neotropical Anthribidae. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona (virtual).
-
-- **Orellana KS***. (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona.
-
-- **Orellana KS***. (2019). New country records and range extensions for the Anthribidae (Coleoptera: Curculionoidea) of Panama (in Spanish). III Colloquium of Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
-
----
-
-## **Invited Presentations**
-
-- **Anthribidae of North America**. [Weevil Course & Roundup](https://www.curculionoidea.org/weevil-course-roundup-arizona) Smithsonian National Museum of Natural History, Museum of Texas Tech University, Canadian Museum of Nature. Southwestern Research Station, Arizona, USA, September 2025.
-
-- **Systematics of Neotropical Anthribidae: Contributions from entomological collections** (in Spanish). Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. July 2025.
-
-- **Introduction to Coleoptera** (virtual, in Spanish). Undergraduate Entomology Course, Universidad de Costa Rica, Campus Guanacaste. November 2020.
-
-- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. August 2020.
-
-- **Relevance of Entomological Collections in the Study of Biodiversity: Research Experiences in North and Central America** (in Spanish). Universidad de San Carlos de Guatemala. March 2020.
-
----
-
 ### **Media Features**
 
 - [**KU Office of Research Remark**](https://research.ku.edu/news/article/ku-postdoc-preserves-history-of-the-natural-world-before-it-disappears). By Vince Munoz. KU postdoc preserves history of the natural world before it disappears. 
