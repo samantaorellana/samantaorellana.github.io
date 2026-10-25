@@ -86,12 +86,6 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 - **Orellana KS***, Gilbert E, Walker LJ, Pearson K, Prado LR, Post G, Yost J, Franz N. (2022). Taxonomic Curation in a Multi-taxa Symbiota Portal. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
-- Pearson K, Gilbert E, Franz N, **Orellana S**, Post G, Rocha Prado L, Walker LJ, Yost JM. (2022). Leveraging the Symbiota Support Hub for Biodiversity Data Mobilization. Biodiversity Information Science and Standards, 6, e93893. [https://doi.org/10.3897/biss.6.93893](https://doi.org/10.3897/biss.6.93893)
-
-- Pearson K, Gilbert E, **Orellana KS**, Post G, Walker L, Yost J, Franz N. (2022). Growth and Evolution of the Symbiota Portal Network. Biodiversity Information Science and Standards, 6,e112028. [https://doi.org/10.3897/biss.7.112028](https://doi.org/10.3897/biss.7.112028).
-
-- Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. (2022). Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
-
 Full list of presentations [here](https://samantaorellana.github.io/docs/about).
 
 ---
