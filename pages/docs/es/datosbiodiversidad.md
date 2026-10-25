@@ -77,7 +77,7 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 
 ---
 
-### **Resúmenes Publicados** (* Presentadora)
+### **Presentaciones** (* Presentadora)
 
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
@@ -89,107 +89,37 @@ He trabajado y colaborado como voluntaria en colecciones de historia natural por
 
 - **Orellana KS***, Gilbert E, Walker LJ, Pearson K, Prado LR, Post G, Yost J, Franz N. (2022). Taxonomic Curation in a Multi-taxa Symbiota Portal. Biodiversity Information Science and Standards, 6, e93671. [https://doi.org/10.3897/biss.6.93671](https://doi.org/10.3897/biss.6.93671)
 
-- Pearson K, Gilbert E, Franz N, **Orellana S**, Post G, Rocha Prado L, Walker LJ, Yost JM. (2022). Leveraging the Symbiota Support Hub for Biodiversity Data Mobilization. Biodiversity Information Science and Standards, 6, e93893. [https://doi.org/10.3897/biss.6.93893](https://doi.org/10.3897/biss.6.93893)
-
-- Pearson K, Gilbert E, **Orellana KS**, Post G, Walker L, Yost J, Franz N. (2022). Growth and Evolution of the Symbiota Portal Network. Biodiversity Information Science and Standards, 6,e112028. [https://doi.org/10.3897/biss.7.112028](https://doi.org/10.3897/biss.7.112028).
-
-- Gilbert E, Sterner B, Fisher MA, **Orellana KS**, Pearson K, Post G, Walker J, Wilt L, Yost JM, Franz N. (2022). Symbiota Integrations: Exploration of Historical and Current Methods of Data Sharing Across a Decentralized Portal Network and Goals of Extending Interoperability Globally. Biodiversity Information Science and Standards, 6, e111680. [https://doi.org/10.3897/biss.7.111680](https://doi.org/10.3897/biss.7.111680).
-
----
-
-### **Presentaciones en Conferencias** (* Presentadora)
+Lista completa de presentaciones [aquí](https://samantaorellana.github.io/docs/es/acerca).
 
 <img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
-
-
-- **Orellana KS***, Franz N, Gilbert E, Freire-Fierro A. (2025). Digitization of Latin American Herbaria with Symbiota (in Spanish). Latin American Botanical Congress. La Habana, Cuba (virtual).
-
-- **Orellana KS***, López ZM, Gilbert E, Franz N. (2024). Enabling Biodiversity Research in Guatemala with a Customized Symbiota Portal. Digital Data Conference, iDigBio and Natural Science Collections Alliance, hosted by Kansas University. Lawrence, Kansas, USA.
-
-- **Orellana KS***, Gilbert E, Franz NM. (2023). Bilingual Tools to Increase Digital Representation of Latin American Collections and Entomologists. Entomological Collections Network Annual Meeting. National Harbor, Maryland, USA.
-
-- Johnston A, Girón J, **Orellana KS**, Seltmann KC, Walker LJ, Lee S. (2023). Ecdysis, an emerging community resource for digital specimen data and research. Entomological Collections Network Annual Meeting. National Harbor, Maryland, USA.
-
-- Yost J, **Orellana KS***. (2023). Communities of Practice Across the Americas. Digital Data Conference, iDigBio and Natural Science Collections Alliance, hosted by Arizona State University. Tempe, Arizona, USA.
-
-- **Orellana KS***. (2022). Symbiota Portals as Digitization Tools for Herbarium Collections (in Spanish). II Simposio de Botánica de Guatemala, Universidad de San Carlos de Guatemala (virtual).
-
-- **Orellana KS***. (2022). Engaging underrepresented communities with Symbiota portals: The case of Guatemala. Digital Data Conference, iDigBio and Natural Science Collections Alliance, hosted by the Field Museum (virtual).
-
-- Gilbert E, **Orellana KS**, Pearson K, Post G, Rocha Prado L, Yost J, Sterner B, Franz N. (2022). Using Symbiota to establish a global, decentralized model for data aggregation: Novel concepts and designs to improve the interoperability of occurrence-based biodiversity data. Conference of the Society for the Preservation of Natural History Collections. Edinburg (virtual).
-
-- Pearson K, Franz N, Gilbert E, **Orellana KS**, Post G, Rocha Prado L, Yost J. (2022). New Symbiota Features to Support Digital and Extended Specimen Data. Conference of the Society for the Preservation of Natural History Collections. Edinburg (virtual).
-
-- Rocha Prado L, Gilbert E, Franz N, **Orellana KS**, Pearson K, Post G, Yost J. (2022). Identifiers and labels for everyone: Recent developments in Symbiota. Conference of the Society for the Preservation of Natural History Collections. Edinburg (virtual).
-
-- **Orellana KS***. (2020). Promoting the digitization of Latin American entomological collections using Symbiota portals. Equity, Justice and Inclusion in Ento: Making Entomological Collections Research More Accessible Mini Symposium. Entomological Collections Network Annual Meeting
-(virtual).
-
-- **Orellana KS***. (2020). Digitization of Mesoamerican Biological Collections using Symbiota portals (In Spanish). Mesoamerican Society of Biology and Conservation, I Virtual Meeting (virtual).
-
----
-
-## **Presentaciones de Poster**
-
-- Walker L, Fisher M, Franz N, Gilbert E, Pearson K, Post G, **Orellana S**, Yost J. (2023). Symbiota. iDigBio’s Digital Data in Biodiversity Research Conference, Tempe, AZ.
-
-- Gilbert E, Pearson K, Post G, Rocha Prado L, **Orellana KS**, Walker L, Yost J, Franz N. (2021). The state of the Symbiota Portals: Gateways to digital management and discovery”. Conference of the Society for the Preservation of Natural History Collections. Edinburg.
-
----
-
-### **Divulgación Científica**
-
-![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
 ---
 
 ## **Talleres Organizados**
 
+- **Portales Symbiota para la Digitalización de Herbarios**. Co-organizadora. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. Octubre 2025.
+  
+- **Herramientas Avanzadas para el Manejo de Colecciones en el Portal de Biodiversidad de Guatemala**. Organizadora e instructora. University of Kansas Biodiversity Institute and Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Guatemala. Junio 2025.
+  
+- **Introducción al Portal de Biodiversidad de Guatemala**. Co-organizadora e instructora. Museo de Historia Natural, Universidad de San Carlos de Guatemala, Ciudad de Guatemala, Guatemala. Junio 2025.
 
-- **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
+- **Herramientas Interactivas para el Estudio de la Biodiversidad de Guatemala** (virtual). Organizadora e instructora. Symbiota Support Hub, Arizona State University. Septiembre 2023.
   
-- **Advanced Tools for the Management of Scientific Collections in the Guatemala Biodiversity Portal** (in Spanish). Organizer and instructor. University of Kansas Biodiversity Institute and Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
+- **Un Tour Guiado por el Portal de Biodiversidad de Guatemala** (virtual). Organizadora e instructora. Symbiota Support Hub, Arizona State University. Septiembre 2023.
   
-- **Introduction to the Guatemala Biodiversity Portal**. Co-organizer and instructor. Museo de Historia Natural, Universidad de San Carlos de Guatemala, Guatemala City, Guatemala. June 2025.
-- **Interactive Tools for the Study of Guatemalan Biodiversity** (virtual, in Spanish). September 2023. Organizer and instructor. Symbiota Support Hub, Arizona State University.
-  
-- **A Guided Tour of the Guatemala Biodiversity Portal** (virtual, in Spanish). March 2023. Organizer and instructor. Symbiota Support Hub, Arizona State University.
-  
-- **Natural History Collections Digitization and Mobilization with Symbiota Portals: Mexican Herbaria Network** (virtual, in Spanish). November 2022. Co-organizer and instructor. Mexican Herbaria Network and Arizona State University.
-  
-- **Natural History Collections Digitization and Mobilization with Symbiota Portals** (virtual, in Spanish). September 2022. Organizer and instructor. Symbiota Support Hub, Arizona State University.
-  
-- **Digitization of Natural History Collections in the Guatemala Biodiversity Symbiota Portal** (virtual, in Spanish). August 2022. Organizer and instructor. Symbiota Support Hub, Arizona State University.
+Lista completa de talleres [aquí](https://samantaorellana.github.io/docs/es/acerca).
 
-- **Introduction to Symbiota databases platform: Consortium of Small Vertebrate Collection** (virtual, in Spanish). August 2020. Organizer and instructor. Biological Collections System of the School of Biology, Universidad de San Carlos de Guatemala.
-
-- **Introduction to Symbiota databases platform: ecdysis** (virtual, in Spanish). July 2020. Organizer and instructor. Universidad del Valle de Guatemala.
-
-  ---
-
-### **Presentaciones Invitadas**
-
-- **Portales Symbiota** (virtual, in Spanish). Septiembre 2022. Taller de Manejo de Colecciones de Historia Natural, Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colombia.
-  
-- **Digitalizando Colecciones Biológicas en Guatemala** (virtual). Septiembre 2022. Serie de Talleres Conectando Colecciones, Sociedad para la Preservación de Colecciones de Historia Natural y la Instalación Global de Información de Biodiversidad.
-  
-- **Publicación de datos de biodiversidad en GBIF desde el Portal de Biodiversidad de Guatemala** (virtual). Mayo 2022. Colegio de Farmacéuticos y Químicos de Guatemala.
-  
-- **Introducción al Portal de Biodiversidad de Guatemala** (virtual). Agosto 2021. Taller de Digitalización de Colecciones Biológicas, Universidad del Valle de Guatemala.
-  
-- **Symbiota: Una plataforma para movilizar, integrar y usar datos de colecciones biológicas** (virtual, in Spanish). Abril 2021. Serie de Webinars, Sistema de Información sobre Biodiversidad de Colombia.
-  
-- **Portal de Biodiversidad de Guatemala: Digitalizando colecciones biológicas en el país** (virtual). Marzo 2021. Serie de Conferencia Mujeres en STEM: Ciencia, Tecnología, Ingeniería y Matemáticas, Women Who Code, Guatemala.
-  
-- **Digitalización de Colecciones Biológicas usando el Portal de Biodiversidad de Guatemala** (virtual). Febrero 2021. Curso de Manejo de Colecciones, Universidad de San Carlos de Guatemala.
+![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
 ---
 
 ### **Recursos en Línea**
 
-- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Documentation site for users of the Guatemala Biodiversity Portal (2020-presente).
-  
+- [**Portal de Colecciones Centroamericanas de Biodiversidad.**](https://centroamerica.symbiota.org) Portal Symbiota para el manejo de colecciones biológicas en Centroamérica (2026-presente).
+
 - [**Portal de Biodiversidad de Guatemala.**](https://biodiversidad.gt/) Portal Symbiota para el manejo de colecciones biológicas en Guatemala (2020-presente).
+
+- [**Guatemala Portal Docs.**](https://guatemalaportal.github.io/) Sitio de documentación para usuarios del Portal de Biodiversidad de Guatemala (2020-presente).
 
 ---
 
