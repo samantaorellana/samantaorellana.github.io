@@ -74,8 +74,6 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 ### **Presentations** (* Presenting author)
 
-<img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
-
 - **Orellana KS***, López ZM, Quezada ML, Yoshimoto J, Prado LM, Ambrocio A, Franz N, Gilbert E (2025) Five Years of the Guatemala Biodiversity Portal: Increasing Capacities for the Mobilization of Natural History Collections Using Symbiota. Biodiversity Information Science and Standards 9: e178671. [https://doi.org/10.3897/biss.9.178671](https://doi.org/10.3897/biss.9.178671)
 
 - **Orellana KS***, Gilbert E, Pearson K, Post G, Fisher M, Franz N (2025) Use of Symbiota Portals to Integrate Biodiversity Information in Latin America. Biodiversity Information Science and Standards 9: e177303. [https://doi.org/10.3897/biss.9.177303](https://doi.org/10.3897/biss.9.177303)
@@ -88,11 +86,11 @@ I have volunteered and worked in natural history collections for over 15 years i
 
 Full list of presentations [here](https://samantaorellana.github.io/docs/about).
 
+<img width="800" height="558.5" alt="570998573_10163308859859110_5259131591659541603_n" src="https://github.com/user-attachments/assets/2cce8507-cc6f-4428-843a-f61d6a5d439b" />
+
 ---
 
 ### **Organized Workshops**
-
-![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
 - **Symbiota Portals for the Digitization of Herbaria** (in Spanish). Co-organizer. University of Kansas Biodiversity Institute, Yale Peabody Museum, Universidad Nacional Mayor de San Marcos, Lima, Perú. October 2025.
   
@@ -105,6 +103,8 @@ Full list of presentations [here](https://samantaorellana.github.io/docs/about).
 - **A Guided Tour of the Guatemala Biodiversity Portal** (virtual, in Spanish). Organizer and instructor. Symbiota Support Hub, Arizona State University. March 2023.
   
 Full list of workshops [here](https://samantaorellana.github.io/docs/about).
+
+![SymbiotaGuatemala7](https://github.com/user-attachments/assets/f694345f-8a76-488f-ae7f-7c861cb05162)
 
 ---
 
