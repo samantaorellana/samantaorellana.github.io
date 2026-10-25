@@ -72,7 +72,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ---
 
-### **Presentaciones en Conferencias** (* Presentadora)
+### **Presentaciones** (* Presentadora)
 
 - **Orellana KS***. (2024). Improving Accessibility of Entomological Collections for the Study of Neotropical Anthribidae. Entomological Collections Network Annual Meeting. Phoenix, Arizona, USA.
 
@@ -84,23 +84,7 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 - **Orellana KS***. (2020). Current studies on Central American Anthribidae (Coleoptera: Curculionoidea): The impressive diversity of fungus weevils in Panama. Entomological Society of America Annual Meeting (virtual).
 
-- **Orellana KS***. (2020). Collection-based research: Discovering the Neotropical Anthribidae. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona (virtual).
-
-- **Orellana KS***. (2019). Research experiences in Central America: Tropical forests, beetles and collections. II Symposium of Evolutionary Biology, School of Life Sciences, Arizona State University, Arizona.
-
-- **Orellana KS***. (2019). Nuevos registros y extensiones de rango para Anthribidae (Coleoptera: Curculionoidea) de Panamá. III Coloquio de Biology. Universidad del Valle de Guatemala, Guatemala City, Guatemala.
-
----
-
-## **Presentaciones Invitadas**
-
-- **Sistemática de Anthribidae Neotropical: Contribuciones desde las colecciones entomológicas**. Centro de Investigación en Protección de Cultivos, Museo de Insectos, Universidad de Costa Rica. San José, Costa Rica. Julio 2025.
-
-- **Introducción a Coleoptera** (virtual). Curso de Entomología, Universidad de Costa Rica, Campus Guanacaste. Noviembre 2020.
-
-- **Taxonomy of Anthribidae** (virtual, in Spanish). Undergraduate Taxonomy course, Universidad de San Carlos de Guatemala. Agosto 2020.
-
-- **Importancia de las Colecciones Entomológicas en el Estudio de la Biodiversidad: Experiencias de Investigación en Norte y Centro América**. Universidad de San Carlos de Guatemala. Marzo 2020.
+Lista completa de presentaciones [aquí](https://samantaorellana.github.io/docs/es/acerca).
 
 ---
 
