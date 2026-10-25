@@ -123,4 +123,12 @@ Lista completa de talleres [aquí](https://samantaorellana.github.io/docs/es/ace
 
 ---
 
+## **Notas en Medios**
+
+[KU Biodiversity Institute and Natural History Museum News](https://biodiversity.ku.edu/news/article/ku-symbiota-leads-a-new-project-to-mobilize-biodiversity-collections-in-central-america). Por Samanta Orellana. KU Symbiota leads a new project to mobilize biodiversity collections in Central America.
+
+---
+
+---
+
 | [<img width="100" height="35" alt="englishbutton" src="https://github.com/user-attachments/assets/56570240-54b0-4355-9891-7080f8d7c827" />](https://samantaorellana.github.io/docs/biodiversitydata) |
