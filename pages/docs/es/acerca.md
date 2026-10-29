@@ -63,12 +63,16 @@ permalink: /docs/es/acerca
 
 ### **Mentorías**
 
-- **Proyecto BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Fondo de Datos de Biodiversidad para el Desarrollo, Unión Europea y GBIF. Digitalización y movilización de 25 colecciones biológicas de Centroamérica. 
+- [**Proyecto BID-REG2025-081:**](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Fondo de Datos de Biodiversidad para el Desarrollo, Unión Europea y GBIF. Digitalización y movilización de 25 colecciones biológicas de Centroamérica. 
   University of Kansas Biodiversity Institute y Symbiota, en colaboración con la Universidad de San Carlos of Guatemala, Universidad de El Salvador, Universidad de Costa Rica of Costa Rica y Organización de Estudios Tropicales, entre otros. Mentora y coordinadora de proyecto. (2026-2028)
 
-- **Proyecto de Graduación de MS. en Estudios de Museo.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-directora. (2025-2026)
-
 - [**Proyecto BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Fondo de Datos de Biodiversidad para el Desarrollo, Unión Europea y GBIF. Digitalización y movilización de 12 colecciones biológicas de República Dominicana. Arizona State University y Symbiota, en colaboración con el Instituto de Investigaciones Botánicas y Zoológicas, Universidad Autónoma de Santo Domingo, República Dominicana. (2021-2023)
+
+---
+
+### **Estudiantes**
+
+- **Proyecto de Graduación de MS. en Estudios de Museo.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-directora. (2025-2026)
 
 ---
 
