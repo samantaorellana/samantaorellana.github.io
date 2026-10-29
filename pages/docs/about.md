@@ -62,11 +62,15 @@ permalink: /docs/about
 
 ### **Mentorships**
 
-- **Project BID-REG2025-081:** Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator. (2026-2028)
-
-- **MS. in Museum Studies Capstone Project.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-chair. (2025-2026)
+- [**Project BID-REG2025-081:**](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections) Increasing Open Biodiversity Information in Central America Through a Network of Digitized Scientific Collections. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 25 natural history collections in Central America. University of Kansas Biodiversity Institute and Symbiota, in collaboration with University of San Carlos of Guatemala, University of El Salvador, and University of Costa Rica. Mentor and project coordinator. (2026-2028)
 
 - [**Project BID-CA2020-031-NAC:**](https://www.gbif.org/project/BID-CA2020-031-NAC/mobilizing-natural-history-collections-of-the-dominican-republic) Mobilizing natural history collections of the Dominican Republic. Biodiversity Data for Development Fund, European Union and the Global Biodiversity Information Facility. Digitization and mobilization of 12 natural history collections in the Dominican Republic. Arizona State University and Symbiota, in collaboration with Zoology and Botany Research Institute, Autonomous University of Santo Domingo, Dominican Republic. (2021-2023)
+
+---
+
+### **Students**
+
+- **MS. in Museum Studies Capstone Project.** Digitizing and Publishing Naupactini Weevil Specimen Data and Images Based on a Modern Insect Research Collection Workflow (Coleoptera: Curculionidae). Omotayo Agunbiade. Museum Studies, University of Kansas. Co-chair. (2025-2026)
 
 ---
 
