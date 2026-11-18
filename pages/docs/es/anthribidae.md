@@ -46,8 +46,8 @@ Estoy interesada en la diversidad e historia evolutiva de los grupos Neotropical
 
 ### **Publicaciones**
 
-- Mora-Prendas J, **Orellana KS**. (2026). New provincial and additional records of _Araecerus fasciculatus_ (De Geer, 1775) (Coleoptera, Curculionoidea, Anthribidae) for Costa Rica. Check List 22 (6): 1–6. [https://doi.org/10.15560/22.6](https://doi.org/10.15560/22.6)
-  
+- Mora-Prendas J, **Orellana KS**. (2026). New provincial and additional records of _Araecerus fasciculatus_ (De Geer, 1775) (Coleoptera, Curculionoidea, Anthribidae) for Costa Rica. Check List 22 (6): 1145–1150. [https://doi.org/10.15560/22.6.1145](https://checklist.pensoft.net/article/208586/element/8/362023/)
+    
 - McKenna DD, Oberprieler RG, Marvaldi AE, Brown SDJ, Charles M, Medeiros BAS, Farrell BD, Leschen RAB, Mermudes JRM, **Orellana KS**, Shin S, Stals R, Li X. (2025). Unraveling the evolution of mycetophagy and phytophagy in fungus weevils (Curculionoidea: Anthribidae): Phylogenomic insights into Anthribinae paraphyly and tribal non-monophyly. Systematic Entomology, 1–13. [https://doi.org/10.1111/syen.12674](https://doi.org/10.1111/syen.12674)
   
 - **Orellana KS**, Girón J. (2024). State of the State of knowledge of the Anthribidae (Insecta: Coleoptera: Curculionoidea) in Colombia with a key to genera. Biota Colombiana, 25, 1-18. [https://doi.org/10.21068/2539200X.1149](https://doi.org/10.21068/2539200X.1149)
