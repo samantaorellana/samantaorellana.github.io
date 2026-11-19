@@ -15,6 +15,8 @@ permalink: /docs/inicio
 ---
 
 | **★ Conozcan nuestro nuevo proyecto BID** [_"Incrementando la información abierta de biodiversidad en Centroamérica por medio de Colecciones Digitalizadas"_](https://www.gbif.org/project/BID-REG2025-081/increasing-open-biodiversity-information-in-central-america-through-digitized-collections), financiado por GBIF y la Union Europea. |
+| **★ Nueva publicación** [_"New provincial and additional records of Araecerus fasciculatus (De Geer, 1775) (Coleoptera, Curculionoidea, Anthribidae) for Costa Rica"_](https://doi.org/10.15560/22.6.1145), en colaboración con Universidad de Costa Rica Sede Guanacaste.|
+
 
 ---
 
